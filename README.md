@@ -19,6 +19,8 @@ flowchart TD
 - **Transformation**: T-SQL (bronze/silver/gold views)
 - **Reporting**: Power BI Desktop (Import mode, DAX)
 
+## Data Model
+
 ```mermaid
 erDiagram
   DIM_TEAMS ||--o{ FACT_TABLE : teamkey
@@ -56,9 +58,9 @@ erDiagram
     string away
     string away_badge
     string away_code
-    int away_diff
+    int away_key
     int away_score
-    int awaykey
+    ... ...
   }
   DIM_SEASONS {
     int season_id PK
@@ -70,14 +72,14 @@ erDiagram
     string home_away
   }
   FACT_TABLE {
-    string code
-    int bonus
-    int bps
-    int clean_sheets
-    float creativity
+    string playerkey
+    int goals
+    int assists
+    int gw
+    float xg
     int defcon
     int corners_indirect_fk_rank
     int direct_fk_rank
-    date date
+    ... ...
   }
 ```
