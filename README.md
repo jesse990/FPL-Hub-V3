@@ -10,6 +10,8 @@ Key Changes:
 **[View Live Dashboard](https://tinyurl.com/fplhubv3)**
 
 ![Overview](images/p1.jpg)
+![Overview](images/p2.jpg)
+![Overview](images/p4.jpg)
 
 ## Architecture overview
 
