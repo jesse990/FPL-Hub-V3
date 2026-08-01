@@ -8,7 +8,9 @@ Key Changes:
 ## 📊 Dashboard
 
 **[View Live Dashboard](https://tinyurl.com/fplhubv3)**
-![Data Flow Diagram](./p1.png)
+
+![Overview](images/p1.jpg)
+
 ## Architecture overview
 
 ```mermaid
