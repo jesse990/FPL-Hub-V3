@@ -1,0 +1,842 @@
+id,code,first_name,second_name,web_name,photo,element_type,season
+1,154561,David,Raya Martín,Raya,https://resources.premierleague.com/premierleague25/photos/players/110x140/154561.png,1,2526
+2,109745,Kepa,Arrizabalaga Revuelta,Arrizabalaga,https://resources.premierleague.com/premierleague25/photos/players/110x140/109745.png,1,2526
+3,463748,Karl,Hein,Hein,https://resources.premierleague.com/premierleague25/photos/players/110x140/463748.png,1,2526
+4,551221,Tommy,Setford,Setford,https://resources.premierleague.com/premierleague25/photos/players/110x140/551221.png,1,2526
+5,226597,Gabriel,dos Santos Magalhães,Gabriel,https://resources.premierleague.com/premierleague25/photos/players/110x140/226597.png,2,2526
+6,462424,William,Saliba,Saliba,https://resources.premierleague.com/premierleague25/photos/players/110x140/462424.png,2,2526
+7,466075,Riccardo,Calafiori,Calafiori,https://resources.premierleague.com/premierleague25/photos/players/110x140/466075.png,2,2526
+8,445122,Jurriën,Timber,J.Timber,https://resources.premierleague.com/premierleague25/photos/players/110x140/445122.png,2,2526
+9,440854,Jakub,Kiwior,Kiwior,https://resources.premierleague.com/premierleague25/photos/players/110x140/440854.png,2,2526
+10,499169,Myles,Lewis-Skelly,Lewis-Skelly,https://resources.premierleague.com/premierleague25/photos/players/110x140/499169.png,2,2526
+11,198869,Benjamin,White,White,https://resources.premierleague.com/premierleague25/photos/players/110x140/198869.png,2,2526
+13,563324,Brayden,Clarke,Clarke,https://resources.premierleague.com/premierleague25/photos/players/110x140/563324.png,2,2526
+14,588793,Maldini,Kacurri,Kacurri,https://resources.premierleague.com/premierleague25/photos/players/110x140/588793.png,2,2526
+15,499167,Josh,Nichols,Nichols,https://resources.premierleague.com/premierleague25/photos/players/110x140/499167.png,2,2526
+16,223340,Bukayo,Saka,Saka,https://resources.premierleague.com/premierleague25/photos/players/110x140/223340.png,3,2526
+17,184029,Martin,Ødegaard,Ødegaard,https://resources.premierleague.com/premierleague25/photos/players/110x140/184029.png,3,2526
+18,248857,Noni,Madueke,Madueke,https://resources.premierleague.com/premierleague25/photos/players/110x140/248857.png,3,2526
+19,444145,Gabriel,Martinelli Silva,Martinelli,https://resources.premierleague.com/premierleague25/photos/players/110x140/444145.png,3,2526
+20,116216,Leandro,Trossard,Trossard,https://resources.premierleague.com/premierleague25/photos/players/110x140/116216.png,3,2526
+21,204480,Declan,Rice,Rice,https://resources.premierleague.com/premierleague25/photos/players/110x140/204480.png,3,2526
+22,195384,Mikel,Merino Zazón,Merino,https://resources.premierleague.com/premierleague25/photos/players/110x140/195384.png,3,2526
+23,438098,Fábio,Ferreira Vieira,Fábio Vieira,https://resources.premierleague.com/premierleague25/photos/players/110x140/438098.png,3,2526
+24,128295,Christian,Nørgaard,Nørgaard,https://resources.premierleague.com/premierleague25/photos/players/110x140/128295.png,3,2526
+25,499175,Ethan,Nwaneri,Nwaneri,https://resources.premierleague.com/premierleague25/photos/players/110x140/499175.png,3,2526
+26,481655,Martín,Zubimendi Ibáñez,Zubimendi,https://resources.premierleague.com/premierleague25/photos/players/110x140/481655.png,3,2526
+28,588796,Ismeal,Kabia,Kabia,https://resources.premierleague.com/premierleague25/photos/players/110x140/588796.png,3,2526
+29,437742,Albert,Sambi Lokonga,Sambi,https://resources.premierleague.com/premierleague25/photos/players/110x140/437742.png,3,2526
+30,219847,Kai,Havertz,Havertz,https://resources.premierleague.com/premierleague25/photos/players/110x140/219847.png,4,2526
+31,205651,Gabriel,Fernando de Jesus,G.Jesus,https://resources.premierleague.com/premierleague25/photos/players/110x140/205651.png,4,2526
+266,232413,Eberechi,Eze,Eze,https://resources.premierleague.com/premierleague25/photos/players/110x140/232413.png,3,2526
+662,500040,Cristhian,Mosquera,Mosquera,https://resources.premierleague.com/premierleague25/photos/players/110x140/500040.png,2,2526
+666,224117,Viktor,Gyökeres,Gyökeres,https://resources.premierleague.com/premierleague25/photos/players/110x140/224117.png,4,2526
+700,616077,Max,Dowman,Dowman,https://resources.premierleague.com/premierleague25/photos/players/110x140/616077.png,3,2526
+711,646243,Andre,Harriman-Annous,Harriman-Annous,https://resources.premierleague.com/premierleague25/photos/players/110x140/646243.png,3,2526
+725,448104,Piero,Hincapié,Hincapie,https://resources.premierleague.com/premierleague25/photos/players/110x140/448104.png,2,2526
+759,616065,Marli,Salmon,Salmon,https://resources.premierleague.com/premierleague25/photos/players/110x140/616065.png,2,2526
+32,98980,Emiliano,Martínez Romero,Martinez,https://resources.premierleague.com/premierleague25/photos/players/110x140/98980.png,1,2526
+33,72147,Marco,Bizot,M.Bizot,https://resources.premierleague.com/premierleague25/photos/players/110x140/72147.png,1,2526
+34,462492,Joe,Gauci,Gauci,https://resources.premierleague.com/premierleague25/photos/players/110x140/462492.png,1,2526
+35,462381,Filip,Marschall,Marschall,https://resources.premierleague.com/premierleague25/photos/players/110x140/462381.png,1,2526
+36,199796,Matty,Cash,Cash,https://resources.premierleague.com/premierleague25/photos/players/110x140/199796.png,2,2526
+37,101188,Lucas,Digne,Digne,https://resources.premierleague.com/premierleague25/photos/players/110x140/101188.png,2,2526
+38,199798,Ezri,Konsa Ngoyo,Konsa,https://resources.premierleague.com/premierleague25/photos/players/110x140/199798.png,2,2526
+39,441302,Ian,Maatsen,Maatsen,https://resources.premierleague.com/premierleague25/photos/players/110x140/441302.png,2,2526
+40,149484,Tyrone,Mings,Mings,https://resources.premierleague.com/premierleague25/photos/players/110x140/149484.png,2,2526
+41,244954,Pau,Torres,Pau,https://resources.premierleague.com/premierleague25/photos/players/110x140/244954.png,2,2526
+42,606798,Andrés,García,A.García,https://resources.premierleague.com/premierleague25/photos/players/110x140/606798.png,2,2526
+43,106468,Álex,Moreno Lopera,Alex Moreno,https://resources.premierleague.com/premierleague25/photos/players/110x140/106468.png,2,2526
+44,515597,Lamare,Bogarde,Bogarde,https://resources.premierleague.com/premierleague25/photos/players/110x140/515597.png,2,2526
+45,514315,Lino,da Cruz Sousa,Sousa,https://resources.premierleague.com/premierleague25/photos/players/110x140/514315.png,2,2526
+46,587178,Yasin,Özcan,Yasin,https://resources.premierleague.com/premierleague25/photos/players/110x140/587178.png,2,2526
+47,244850,Morgan,Rogers,Rogers,https://resources.premierleague.com/premierleague25/photos/players/110x140/244850.png,3,2526
+48,166989,Youri,Tielemans,Tielemans,https://resources.premierleague.com/premierleague25/photos/players/110x140/166989.png,3,2526
+49,215711,Leon,Bailey,Bailey,https://resources.premierleague.com/premierleague25/photos/players/110x140/215711.png,3,2526
+50,195546,Emiliano,Buendía Stati,Buendía,https://resources.premierleague.com/premierleague25/photos/players/110x140/195546.png,3,2526
+51,469247,Samuel,Iling-Junior,Iling Jr,https://resources.premierleague.com/premierleague25/photos/players/110x140/469247.png,3,2526
+53,204646,Donyell,Malen,Malen,https://resources.premierleague.com/premierleague25/photos/players/110x140/204646.png,3,2526
+54,122806,John,McGinn,McGinn,https://resources.premierleague.com/premierleague25/photos/players/110x140/122806.png,3,2526
+55,88894,Ross,Barkley,Barkley,https://resources.premierleague.com/premierleague25/photos/players/110x140/88894.png,3,2526
+56,491287,Enzo,Barrenechea,Barrenechea,https://resources.premierleague.com/premierleague25/photos/players/110x140/491287.png,3,2526
+57,461421,Lewis,Dobbin,Dobbin,https://resources.premierleague.com/premierleague25/photos/players/110x140/461421.png,3,2526
+58,226944,Boubacar,Kamara,Kamara,https://resources.premierleague.com/premierleague25/photos/players/110x140/226944.png,3,2526
+59,449871,Amadou,Onana,Onana,https://resources.premierleague.com/premierleague25/photos/players/110x140/449871.png,3,2526
+60,577731,Ben,Broggio,Broggio,https://resources.premierleague.com/premierleague25/photos/players/110x140/577731.png,3,2526
+61,151589,Leander,Dendoncker,Dendoncker,https://resources.premierleague.com/premierleague25/photos/players/110x140/151589.png,3,2526
+62,559962,Jamaldeen,Jimoh-Aloba,Jimoh-Aloba,https://resources.premierleague.com/premierleague25/photos/players/110x140/559962.png,3,2526
+63,537403,Kadan,Young,Young,https://resources.premierleague.com/premierleague25/photos/players/110x140/537403.png,3,2526
+64,178301,Ollie,Watkins,Watkins,https://resources.premierleague.com/premierleague25/photos/players/110x140/178301.png,4,2526
+65,576756,Zépiqueno,Redmond,Redmond,https://resources.premierleague.com/premierleague25/photos/players/110x140/576756.png,4,2526
+389,444884,Harvey,Elliott,Elliott,https://resources.premierleague.com/premierleague25/photos/players/110x140/444884.png,3,2526
+456,209243,Jadon,Sancho,Sancho,https://resources.premierleague.com/premierleague25/photos/players/110x140/209243.png,3,2526
+688,481283,James,Wright,Wright,https://resources.premierleague.com/premierleague25/photos/players/110x140/481283.png,1,2526
+699,230046,Douglas Luiz,Soares de Paulo,Douglas Luiz,https://resources.premierleague.com/premierleague25/photos/players/110x140/230046.png,3,2526
+701,569577,Triston,Rowe,Rowe,https://resources.premierleague.com/premierleague25/photos/players/110x140/569577.png,2,2526
+702,645618,Bradley,Burrowes,Burrowes,https://resources.premierleague.com/premierleague25/photos/players/110x140/645618.png,3,2526
+703,564505,Sam,Proctor,Proctor,https://resources.premierleague.com/premierleague25/photos/players/110x140/564505.png,1,2526
+710,534836,Travis,Patterson,Patterson,https://resources.premierleague.com/premierleague25/photos/players/110x140/534836.png,2,2526
+719,184667,Victor,Lindelöf,Lindelöf,https://resources.premierleague.com/premierleague25/photos/players/110x140/184667.png,2,2526
+754,577285,George,Hemmings,George Hemmings,https://resources.premierleague.com/premierleague25/photos/players/110x140/577285.png,3,2526
+757,516875,Ronnie,Hollingshead,Hollingshead,https://resources.premierleague.com/premierleague25/photos/players/110x140/516875.png,1,2526
+768,664015,Leon,Routh,Leon Routh,https://resources.premierleague.com/premierleague25/photos/players/110x140/664015.png,2,2526
+781,618027,TJ,Carroll,Carroll,https://resources.premierleague.com/premierleague25/photos/players/110x140/618027.png,2,2526
+792,653481,Alysson Edward Franco,da Rocha dos Santos,Alysson,https://resources.premierleague.com/premierleague25/photos/players/110x140/653481.png,3,2526
+808,173879,Tammy,Abraham,Abraham,https://resources.premierleague.com/premierleague25/photos/players/110x140/173879.png,4,2526
+183,518030,Max,Weiß,Weiss,https://resources.premierleague.com/premierleague25/photos/players/110x140/518030.png,1,2526
+184,489571,Etienne,Green,Green,https://resources.premierleague.com/premierleague25/photos/players/110x140/489571.png,1,2526
+185,51943,Václav,Hladký,Hladký,https://resources.premierleague.com/premierleague25/photos/players/110x140/51943.png,1,2526
+186,192290,Connor,Roberts,Roberts,https://resources.premierleague.com/premierleague25/photos/players/110x140/192290.png,2,2526
+187,58621,Kyle,Walker,Walker,https://resources.premierleague.com/premierleague25/photos/players/110x140/58621.png,2,2526
+188,247245,Hannes,Delcroix,Delcroix,https://resources.premierleague.com/premierleague25/photos/players/110x140/247245.png,2,2526
+189,461567,Owen,Dodgson,Dodgson,https://resources.premierleague.com/premierleague25/photos/players/110x140/461567.png,2,2526
+190,478969,Hjalmar,Ekdal,Ekdal,https://resources.premierleague.com/premierleague25/photos/players/110x140/478969.png,2,2526
+191,477717,Maxime,Estève,Estève,https://resources.premierleague.com/premierleague25/photos/players/110x140/477717.png,2,2526
+192,494960,Quilindschy,Hartman,Hartman,https://resources.premierleague.com/premierleague25/photos/players/110x140/494960.png,2,2526
+193,461188,Bashir,Humphreys,Humphreys,https://resources.premierleague.com/premierleague25/photos/players/110x140/461188.png,2,2526
+194,241231,Jordan,Beyer,Jordan,https://resources.premierleague.com/premierleague25/photos/players/110x140/241231.png,2,2526
+195,549329,Lucas,Pires Silva,Lucas Pires,https://resources.premierleague.com/premierleague25/photos/players/110x140/549329.png,2,2526
+196,450072,Shurandy,Sambo,Sambo,https://resources.premierleague.com/premierleague25/photos/players/110x140/450072.png,2,2526
+197,519895,Oliver,Sonne,Sonne,https://resources.premierleague.com/premierleague25/photos/players/110x140/519895.png,2,2526
+198,180804,Axel,Tuanzebe,Tuanzebe,https://resources.premierleague.com/premierleague25/photos/players/110x140/180804.png,2,2526
+199,208912,Joe,Worrall,Worrall,https://resources.premierleague.com/premierleague25/photos/players/110x140/208912.png,2,2526
+200,444180,Jaidon,Anthony,Anthony,https://resources.premierleague.com/premierleague25/photos/players/110x140/444180.png,3,2526
+201,183751,Manuel,Benson Hedilazio,Benson,https://resources.premierleague.com/premierleague25/photos/players/110x140/183751.png,3,2526
+202,179458,Jacob,Bruun Larsen,Bruun Larsen,https://resources.premierleague.com/premierleague25/photos/players/110x140/179458.png,3,2526
+203,578614,Enock,Agyei,Boateng,https://resources.premierleague.com/premierleague25/photos/players/110x140/578614.png,3,2526
+204,250735,Darko,Churlinov,Churlinov,https://resources.premierleague.com/premierleague25/photos/players/110x140/250735.png,3,2526
+205,172567,Josh,Cullen,Cullen,https://resources.premierleague.com/premierleague25/photos/players/110x140/172567.png,3,2526
+206,174592,Marcus,Edwards,Edwards,https://resources.premierleague.com/premierleague25/photos/players/110x140/174592.png,3,2526
+207,465527,Hannibal,Mejbri,Hannibal,https://resources.premierleague.com/premierleague25/photos/players/110x140/465527.png,3,2526
+208,487702,Luca,Koleosho,Koleosho,https://resources.premierleague.com/premierleague25/photos/players/110x140/487702.png,3,2526
+209,167887,Josh,Laurent,Laurent,https://resources.premierleague.com/premierleague25/photos/players/110x140/167887.png,3,2526
+210,469272,Loum,Tchaouna,Tchaouna,https://resources.premierleague.com/premierleague25/photos/players/110x140/469272.png,3,2526
+211,447715,Aaron,Ramsey,A.Ramsey,https://resources.premierleague.com/premierleague25/photos/players/110x140/447715.png,3,2526
+212,576323,Oluwaseun,Adewumi,Adewumi,https://resources.premierleague.com/premierleague25/photos/players/110x140/576323.png,3,2526
+213,551206,Jaydon,Banel,Banel,https://resources.premierleague.com/premierleague25/photos/players/110x140/551206.png,3,2526
+214,437748,Mike,Trésor Ndayishimiye,Trésor,https://resources.premierleague.com/premierleague25/photos/players/110x140/437748.png,3,2526
+215,431639,Zian,Flemming,Flemming,https://resources.premierleague.com/premierleague25/photos/players/110x140/431639.png,4,2526
+216,492831,Zeki,Amdouni,Amdouni,https://resources.premierleague.com/premierleague25/photos/players/110x140/492831.png,4,2526
+217,435973,Lyle,Foster,Foster,https://resources.premierleague.com/premierleague25/photos/players/110x140/435973.png,4,2526
+218,44699,Ashley,Barnes,Barnes,https://resources.premierleague.com/premierleague25/photos/players/110x140/44699.png,4,2526
+219,220598,Michael,Obafemi,Obafemi,https://resources.premierleague.com/premierleague25/photos/players/110x140/220598.png,4,2526
+470,67089,Martin,Dúbravka,Dúbravka,https://resources.premierleague.com/premierleague25/photos/players/110x140/67089.png,1,2526
+614,101178,James,Ward-Prowse,Ward-Prowse,https://resources.premierleague.com/premierleague25/photos/players/110x140/101178.png,3,2526
+676,503714,Lesley,Ugochukwu,Ugochukwu,https://resources.premierleague.com/premierleague25/photos/players/110x140/503714.png,3,2526
+680,440323,Armando,Broja,Broja,https://resources.premierleague.com/premierleague25/photos/players/110x140/440323.png,4,2526
+722,216055,Florentino Ibrain,Morris Luís,Florentino,https://resources.premierleague.com/premierleague25/photos/players/110x140/216055.png,3,2526
+776,647960,Oliver,Pimlott,Pimlott,https://resources.premierleague.com/premierleague25/photos/players/110x140/647960.png,3,2526
+784,704232,George,Brierley,Brierley,https://resources.premierleague.com/premierleague25/photos/players/110x140/704232.png,3,2526
+820,644593,Kian,McMahon-Brown,McMahon-Brown,https://resources.premierleague.com/premierleague25/photos/players/110x140/644593.png,3,2526
+66,69752,Norberto,Murara Neto,Neto,https://resources.premierleague.com/premierleague25/photos/players/110x140/69752.png,1,2526
+67,457569,Đorđe,Petrović,Petrović,https://resources.premierleague.com/premierleague25/photos/players/110x140/457569.png,1,2526
+68,444172,Will,Dennis,Dennis,https://resources.premierleague.com/premierleague25/photos/players/110x140/444172.png,1,2526
+69,568791,Callan,McKenna,McKenna,https://resources.premierleague.com/premierleague25/photos/players/110x140/568791.png,1,2526
+70,495145,Alex,Paulsen,Paulsen,https://resources.premierleague.com/premierleague25/photos/players/110x140/495145.png,1,2526
+71,477580,Illia,Zabarnyi,Zabarnyi,https://resources.premierleague.com/premierleague25/photos/players/110x140/477580.png,2,2526
+72,221466,Marcos,Senesi Barón,Senesi,https://resources.premierleague.com/premierleague25/photos/players/110x140/221466.png,2,2526
+73,54469,Adam,Smith,Smith,https://resources.premierleague.com/premierleague25/photos/players/110x140/54469.png,2,2526
+74,494521,Adrien,Truffert,Truffert,https://resources.premierleague.com/premierleague25/photos/players/110x140/494521.png,2,2526
+75,541462,Matai,Akinmboni,Akinmboni,https://resources.premierleague.com/premierleague25/photos/players/110x140/541462.png,2,2526
+76,518906,Owen,Bevan,Bevan,https://resources.premierleague.com/premierleague25/photos/players/110x140/518906.png,2,2526
+77,463981,James,Hill,Hill,https://resources.premierleague.com/premierleague25/photos/players/110x140/463981.png,2,2526
+78,436893,Julián,Araujo Zúñiga,J.Araujo,https://resources.premierleague.com/premierleague25/photos/players/110x140/436893.png,2,2526
+79,223911,Chris,Mepham,Mepham,https://resources.premierleague.com/premierleague25/photos/players/110x140/223911.png,2,2526
+80,575901,Julio,Soler Barreto,Soler,https://resources.premierleague.com/premierleague25/photos/players/110x140/575901.png,2,2526
+81,222683,Justin,Kluivert,Kluivert,https://resources.premierleague.com/premierleague25/photos/players/110x140/222683.png,3,2526
+84,201658,Marcus,Tavernier,Tavernier,https://resources.premierleague.com/premierleague25/photos/players/110x140/201658.png,3,2526
+85,200785,Tyler,Adams,Adams,https://resources.premierleague.com/premierleague25/photos/players/110x140/200785.png,3,2526
+86,111317,David,Brooks,Brooks,https://resources.premierleague.com/premierleague25/photos/players/110x140/111317.png,3,2526
+87,158499,Ryan,Christie,Christie,https://resources.premierleague.com/premierleague25/photos/players/110x140/158499.png,3,2526
+88,155408,Lewis,Cook,Cook,https://resources.premierleague.com/premierleague25/photos/players/110x140/155408.png,3,2526
+89,168991,Philip,Billing,Philip,https://resources.premierleague.com/premierleague25/photos/players/110x140/168991.png,3,2526
+90,503139,Alex,Scott,Scott,https://resources.premierleague.com/premierleague25/photos/players/110x140/503139.png,3,2526
+91,224995,Luis,Sinisterra Lucumí,Sinisterra,https://resources.premierleague.com/premierleague25/photos/players/110x140/224995.png,3,2526
+92,441240,Romain,Faivre,Faivre,https://resources.premierleague.com/premierleague25/photos/players/110x140/441240.png,3,2526
+93,424044,Hamed,Traorè,H.Traorè,https://resources.premierleague.com/premierleague25/photos/players/110x140/424044.png,3,2526
+94,550596,Dominic,Sadi,Sadi,https://resources.premierleague.com/premierleague25/photos/players/110x140/550596.png,3,2526
+95,530121,Zain,Silcott-Duberry,Silcott-Duberry,https://resources.premierleague.com/premierleague25/photos/players/110x140/530121.png,3,2526
+96,606775,Ben,Winterburn,Winterburn,https://resources.premierleague.com/premierleague25/photos/players/110x140/606775.png,3,2526
+97,444102,Francisco Evanilson,de Lima Barbosa,Evanilson,https://resources.premierleague.com/premierleague25/photos/players/110x140/444102.png,4,2526
+98,168636,Enes,Ünal,Enes Ünal,https://resources.premierleague.com/premierleague25/photos/players/110x140/168636.png,4,2526
+99,590760,Daniel,Adu-Adjei,Adu-Adjei,https://resources.premierleague.com/premierleague25/photos/players/110x140/590760.png,4,2526
+100,560262,Junior,Kroupi,Kroupi.Jr,https://resources.premierleague.com/premierleague25/photos/players/110x140/560262.png,4,2526
+391,496208,Ben,Gannon-Doak,Gannon-Doak,https://resources.premierleague.com/premierleague25/photos/players/110x140/496208.png,3,2526
+685,242882,Bafodé,Diakité,Diakité,https://resources.premierleague.com/premierleague25/photos/players/110x140/242882.png,2,2526
+687,606774,Remy,Rees-Dottin,Rees-Dottin,https://resources.premierleague.com/premierleague25/photos/players/110x140/606774.png,3,2526
+697,489888,Amine,Adli,Adli,https://resources.premierleague.com/premierleague25/photos/players/110x140/489888.png,3,2526
+713,551483,Álex,Jiménez Sánchez,A.Jimenez,https://resources.premierleague.com/premierleague25/photos/players/110x140/551483.png,2,2526
+721,620487,Veljko,Milosavljevic,Milosavljević,https://resources.premierleague.com/premierleague25/photos/players/110x140/620487.png,2,2526
+756,678552,Malcom,DaCosta,DaCosta,https://resources.premierleague.com/premierleague25/photos/players/110x140/678552.png,3,2526
+782,40383,Fraser,Forster,Forster,https://resources.premierleague.com/premierleague25/photos/players/110x140/40383.png,1,2526
+799,658013,Charlie,Stevens,Stevens,https://resources.premierleague.com/premierleague25/photos/players/110x140/658013.png,3,2526
+801,614574,Alex,Tóth,Tóth.A,https://resources.premierleague.com/premierleague25/photos/players/110x140/614574.png,3,2526
+806,436416,Christos,Mandas,Mandas,https://resources.premierleague.com/premierleague25/photos/players/110x140/436416.png,1,2526
+807,499604,Rayan Vitor,Simplício Rocha,Rayan,https://resources.premierleague.com/premierleague25/photos/players/110x140/499604.png,3,2526
+27,200641,Reiss,Nelson,Nelson,https://resources.premierleague.com/premierleague25/photos/players/110x140/200641.png,3,2526
+83,533463,Dango,Ouattara,O.Dango,https://resources.premierleague.com/premierleague25/photos/players/110x140/533463.png,3,2526
+101,200720,Caoimhín,Kelleher,Kelleher,https://resources.premierleague.com/premierleague25/photos/players/110x140/200720.png,1,2526
+102,235448,Ellery,Balcombe,Balcombe,https://resources.premierleague.com/premierleague25/photos/players/110x140/235448.png,1,2526
+103,503300,Matthew,Cox,Cox,https://resources.premierleague.com/premierleague25/photos/players/110x140/503300.png,1,2526
+104,535017,Julian,Eyestone,Eyestone,https://resources.premierleague.com/premierleague25/photos/players/110x140/535017.png,1,2526
+105,507433,Hákon Rafn,Valdimarsson,Valdimarsson,https://resources.premierleague.com/premierleague25/photos/players/110x140/507433.png,1,2526
+106,432830,Nathan,Collins,Collins,https://resources.premierleague.com/premierleague25/photos/players/110x140/432830.png,2,2526
+107,249231,Keane,Lewis-Potter,Lewis-Potter,https://resources.premierleague.com/premierleague25/photos/players/110x140/249231.png,2,2526
+108,191866,Kristoffer,Ajer,Ajer,https://resources.premierleague.com/premierleague25/photos/players/110x140/191866.png,2,2526
+109,194010,Rico,Henry,Henry,https://resources.premierleague.com/premierleague25/photos/players/110x140/194010.png,2,2526
+110,607464,Michael,Kayode,Kayode,https://resources.premierleague.com/premierleague25/photos/players/110x140/607464.png,2,2526
+111,231065,Ethan,Pinnock,Pinnock,https://resources.premierleague.com/premierleague25/photos/players/110x140/231065.png,2,2526
+112,226956,Mads,Roerslev Rasmussen,Roerslev,https://resources.premierleague.com/premierleague25/photos/players/110x140/226956.png,2,2526
+113,444765,Sepp,van den Berg,Van den Berg,https://resources.premierleague.com/premierleague25/photos/players/110x140/444765.png,2,2526
+114,622536,Benjamin,Arthur,Arthur,https://resources.premierleague.com/premierleague25/photos/players/110x140/622536.png,2,2526
+115,612534,Benjamin,Fredrick,Fredrick,https://resources.premierleague.com/premierleague25/photos/players/110x140/612534.png,2,2526
+116,472713,Aaron,Hickey,Hickey,https://resources.premierleague.com/premierleague25/photos/players/110x140/472713.png,2,2526
+117,570241,Kim,Ji-soo,Ji-soo,https://resources.premierleague.com/premierleague25/photos/players/110x140/570241.png,2,2526
+118,499717,Jayden,Meghoma,Meghoma,https://resources.premierleague.com/premierleague25/photos/players/110x140/499717.png,2,2526
+120,513418,Kevin,Schade,Schade,https://resources.premierleague.com/premierleague25/photos/players/110x140/513418.png,3,2526
+121,440089,Mikkel,Damsgaard,Damsgaard,https://resources.premierleague.com/premierleague25/photos/players/110x140/440089.png,3,2526
+122,543295,Antoni,Milambo,Milambo,https://resources.premierleague.com/premierleague25/photos/players/110x140/543295.png,3,2526
+123,244858,Fábio,Freitas Gouveia Carvalho,Carvalho,https://resources.premierleague.com/premierleague25/photos/players/110x140/244858.png,3,2526
+124,56979,Jordan,Henderson,Henderson,https://resources.premierleague.com/premierleague25/photos/players/110x140/56979.png,3,2526
+125,204580,Vitaly,Janelt,Janelt,https://resources.premierleague.com/premierleague25/photos/players/110x140/204580.png,3,2526
+126,207283,Mathias,Jensen,Jensen,https://resources.premierleague.com/premierleague25/photos/players/110x140/207283.png,3,2526
+127,626464,Gustavo,Nunes Fernandes Gomes,Nunes,https://resources.premierleague.com/premierleague25/photos/players/110x140/626464.png,3,2526
+128,428580,Frank,Onyeka,Onyeka,https://resources.premierleague.com/premierleague25/photos/players/110x140/428580.png,3,2526
+129,508395,Yehor,Yarmoliuk,Yarmoliuk,https://resources.premierleague.com/premierleague25/photos/players/110x140/508395.png,3,2526
+130,606689,Romelle,Donovan,Donovan,https://resources.premierleague.com/premierleague25/photos/players/110x140/606689.png,3,2526
+131,628204,Yunus Emre,Konak,Konak,https://resources.premierleague.com/premierleague25/photos/players/110x140/628204.png,3,2526
+132,220695,Paris,Maghoma,Maghoma,https://resources.premierleague.com/premierleague25/photos/players/110x140/220695.png,3,2526
+133,450539,Myles,Peart-Harris,Peart-Harris,https://resources.premierleague.com/premierleague25/photos/players/110x140/450539.png,3,2526
+134,591357,Ryan,Trevitt,Trevitt,https://resources.premierleague.com/premierleague25/photos/players/110x140/591357.png,3,2526
+136,502500,Igor Thiago,Nascimento Rodrigues,Thiago,https://resources.premierleague.com/premierleague25/photos/players/110x140/502500.png,4,2526
+137,533710,Iwan,Morgan,Morgan,https://resources.premierleague.com/premierleague25/photos/players/110x140/533710.png,4,2526
+748,183656,Josh,Dasilva,Dasilva,https://resources.premierleague.com/premierleague25/photos/players/110x140/183656.png,3,2526
+797,593174,Kaye,Furo,Furo,https://resources.premierleague.com/premierleague25/photos/players/110x140/593174.png,4,2526
+810,559610,Luka,Bentt,Bentt,https://resources.premierleague.com/premierleague25/photos/players/110x140/559610.png,3,2526
+819,494556,Ollie,Shield,Shield,https://resources.premierleague.com/premierleague25/photos/players/110x140/494556.png,2,2526
+823,649240,Joshua,Stephenson,Stephenson,https://resources.premierleague.com/premierleague25/photos/players/110x140/649240.png,2,2526
+824,587433,Conor,McManus,McManus,https://resources.premierleague.com/premierleague25/photos/players/110x140/587433.png,2,2526
+826,547671,Riley,Owen,Owen,https://resources.premierleague.com/premierleague25/photos/players/110x140/547671.png,3,2526
+138,49262,Jason,Steele,Steele,https://resources.premierleague.com/premierleague25/photos/players/110x140/49262.png,1,2526
+139,489639,Bart,Verbruggen,Verbruggen,https://resources.premierleague.com/premierleague25/photos/players/110x140/489639.png,1,2526
+140,209288,Tom,McGill,McGill,https://resources.premierleague.com/premierleague25/photos/players/110x140/209288.png,1,2526
+141,472739,Carl,Rushworth,Rushworth,https://resources.premierleague.com/premierleague25/photos/players/110x140/472739.png,1,2526
+142,240514,Kjell,Scherpen,Scherpen,https://resources.premierleague.com/premierleague25/photos/players/110x140/240514.png,1,2526
+143,204120,Olivier,Boscagli,Boscagli,https://resources.premierleague.com/premierleague25/photos/players/110x140/204120.png,2,2526
+144,550090,Diego,Coppola,Coppola,https://resources.premierleague.com/premierleague25/photos/players/110x140/550090.png,2,2526
+145,465730,Maxim,De Cuyper,De Cuyper,https://resources.premierleague.com/premierleague25/photos/players/110x140/465730.png,2,2526
+146,83299,Lewis,Dunk,Dunk,https://resources.premierleague.com/premierleague25/photos/players/110x140/83299.png,2,2526
+147,204214,Pervis,Estupiñán Tenorio,Estupiñan,https://resources.premierleague.com/premierleague25/photos/players/110x140/204214.png,2,2526
+148,231416,Ferdi,Kadıoğlu,F.Kadıoğlu,https://resources.premierleague.com/premierleague25/photos/players/110x140/231416.png,2,2526
+149,223434,Igor Julio,dos Santos de Paulo,Igor,https://resources.premierleague.com/premierleague25/photos/players/110x140/223434.png,2,2526
+150,232792,Tariq,Lamptey,Lamptey,https://resources.premierleague.com/premierleague25/photos/players/110x140/232792.png,2,2526
+151,469142,Jan Paul,van Hecke,Van Hecke,https://resources.premierleague.com/premierleague25/photos/players/110x140/469142.png,2,2526
+152,111478,Joël,Veltman,Veltman,https://resources.premierleague.com/premierleague25/photos/players/110x140/111478.png,2,2526
+153,110735,Adam,Webster,Webster,https://resources.premierleague.com/premierleague25/photos/players/110x140/110735.png,2,2526
+154,439135,Eiran,Cashin,Cashin,https://resources.premierleague.com/premierleague25/photos/players/110x140/439135.png,2,2526
+155,589100,Jacob,Slater,Slater,https://resources.premierleague.com/premierleague25/photos/players/110x140/589100.png,2,2526
+156,547720,Charlie,Tasker,Tasker,https://resources.premierleague.com/premierleague25/photos/players/110x140/547720.png,2,2526
+157,451340,Mitoma,Kaoru,Mitoma,https://resources.premierleague.com/premierleague25/photos/players/110x140/451340.png,3,2526
+158,463067,Georginio,Rutter,Georginio,https://resources.premierleague.com/premierleague25/photos/players/110x140/463067.png,3,2526
+159,109345,Solly,March,March,https://resources.premierleague.com/premierleague25/photos/players/110x140/109345.png,3,2526
+160,592031,Yankuba,Minteh,Minteh,https://resources.premierleague.com/premierleague25/photos/players/110x140/592031.png,3,2526
+161,474120,Julio,Enciso Espínola,Enciso,https://resources.premierleague.com/premierleague25/photos/players/110x140/474120.png,3,2526
+162,513433,Brajan,Gruda,Gruda,https://resources.premierleague.com/premierleague25/photos/players/110x140/513433.png,3,2526
+163,532529,Jack,Hinshelwood,Hinshelwood,https://resources.premierleague.com/premierleague25/photos/players/110x140/532529.png,3,2526
+164,219249,Matt,O'Riley,O'Riley,https://resources.premierleague.com/premierleague25/photos/players/110x140/219249.png,3,2526
+165,516211,Abdallah,Sima,Sima,https://resources.premierleague.com/premierleague25/photos/players/110x140/516211.png,3,2526
+166,509416,Yasin,Ayari,Ayari,https://resources.premierleague.com/premierleague25/photos/players/110x140/509416.png,3,2526
+167,535301,Carlos,Baleba,Baleba,https://resources.premierleague.com/premierleague25/photos/players/110x140/535301.png,3,2526
+169,514254,Diego,Gómez Amarilla,Gomez,https://resources.premierleague.com/premierleague25/photos/players/110x140/514254.png,3,2526
+170,15157,James,Milner,Milner,https://resources.premierleague.com/premierleague25/photos/players/110x140/15157.png,3,2526
+171,441192,Jeremy,Sarmiento Morante,Sarmiento,https://resources.premierleague.com/premierleague25/photos/players/110x140/441192.png,3,2526
+172,549074,Tom,Watson,Watson,https://resources.premierleague.com/premierleague25/photos/players/110x140/549074.png,3,2526
+173,467779,Mats,Wieffer,Wieffer,https://resources.premierleague.com/premierleague25/photos/players/110x140/467779.png,3,2526
+174,611695,Malick,Yalcouyé,Yalcouye,https://resources.premierleague.com/premierleague25/photos/players/110x140/611695.png,3,2526
+175,567121,Joe,Knight,Knight,https://resources.premierleague.com/premierleague25/photos/players/110x140/567121.png,3,2526
+176,550141,Adrian,Mazilu,Mazilu,https://resources.premierleague.com/premierleague25/photos/players/110x140/550141.png,3,2526
+177,513834,Andrew,Moran,Moran,https://resources.premierleague.com/premierleague25/photos/players/110x140/513834.png,3,2526
+178,50175,Danny,Welbeck,Welbeck,https://resources.premierleague.com/premierleague25/photos/players/110x140/50175.png,4,2526
+179,487117,Evan,Ferguson,Ferguson,https://resources.premierleague.com/premierleague25/photos/players/110x140/487117.png,4,2526
+180,608181,Stefanos,Tzimas,Tzimas,https://resources.premierleague.com/premierleague25/photos/players/110x140/608181.png,4,2526
+181,647850,Charalampos,Kostoulas,Kostoulas,https://resources.premierleague.com/premierleague25/photos/players/110x140/647850.png,4,2526
+744,556637,Nehemiah,Oriola,Oriola,https://resources.premierleague.com/premierleague25/photos/players/110x140/556637.png,3,2526
+761,604988,Freddie,Simmonds,Simmonds,https://resources.premierleague.com/premierleague25/photos/players/110x140/604988.png,2,2526
+783,60307,Pascal,Groß,Groß,https://resources.premierleague.com/premierleague25/photos/players/110x140/60307.png,3,2526
+795,597320,Harry,Howell,Howell,https://resources.premierleague.com/premierleague25/photos/players/110x140/597320.png,3,2526
+220,215059,Robert,Lynch Sánchez,Sánchez,https://resources.premierleague.com/premierleague25/photos/players/110x140/215059.png,1,2526
+221,508479,Filip,Jörgensen,Jörgensen,https://resources.premierleague.com/premierleague25/photos/players/110x140/508479.png,1,2526
+222,549939,Mike,Penders,Penders,https://resources.premierleague.com/premierleague25/photos/players/110x140/549939.png,1,2526
+223,471798,Gabriel,Słonina,Slonina,https://resources.premierleague.com/premierleague25/photos/players/110x140/471798.png,1,2526
+224,179268,Marc,Cucurella Saseta,Cucurella,https://resources.premierleague.com/premierleague25/photos/players/110x140/179268.png,2,2526
+225,225796,Reece,James,James,https://resources.premierleague.com/premierleague25/photos/players/110x140/225796.png,2,2526
+226,180736,Trevoh,Chalobah,Chalobah,https://resources.premierleague.com/premierleague25/photos/players/110x140/180736.png,2,2526
+227,460028,Levi,Samuels Colwill,Colwill,https://resources.premierleague.com/premierleague25/photos/players/110x140/460028.png,2,2526
+228,482609,Malo,Gusto,Gusto,https://resources.premierleague.com/premierleague25/photos/players/110x140/482609.png,2,2526
+229,242880,Benoît,Badiashile Mukinayi,B.Badiashile,https://resources.premierleague.com/premierleague25/photos/players/110x140/242880.png,2,2526
+230,444463,Wesley,Fofana,Fofana,https://resources.premierleague.com/premierleague25/photos/players/110x140/444463.png,2,2526
+231,574458,Mamadou,Sarr,M.Sarr,https://resources.premierleague.com/premierleague25/photos/players/110x140/574458.png,2,2526
+232,109646,Tosin,Adarabioyo,Tosin,https://resources.premierleague.com/premierleague25/photos/players/110x140/109646.png,2,2526
+233,577016,Josh,Acheampong,Acheampong,https://resources.premierleague.com/premierleague25/photos/players/110x140/577016.png,2,2526
+234,622758,Aarón,Anselmino,Anselmino,https://resources.premierleague.com/premierleague25/photos/players/110x140/622758.png,2,2526
+235,244851,Cole,Palmer,Palmer,https://resources.premierleague.com/premierleague25/photos/players/110x140/244851.png,3,2526
+236,247632,Pedro,Lomba Neto,Neto,https://resources.premierleague.com/premierleague25/photos/players/110x140/247632.png,3,2526
+237,448047,Enzo,Fernández,Enzo,https://resources.premierleague.com/premierleague25/photos/players/110x140/448047.png,3,2526
+238,624773,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,https://resources.premierleague.com/premierleague25/photos/players/110x140/624773.png,3,2526
+239,463936,Jamie,Bynoe-Gittens,Gittens,https://resources.premierleague.com/premierleague25/photos/players/110x140/463936.png,3,2526
+240,213198,Christopher,Nkunku,Nkunku,https://resources.premierleague.com/premierleague25/photos/players/110x140/213198.png,3,2526
+241,486672,Moisés,Caicedo Corozo,Caicedo,https://resources.premierleague.com/premierleague25/photos/players/110x140/486672.png,3,2526
+244,514356,Roméo,Lavia,Lavia,https://resources.premierleague.com/premierleague25/photos/players/110x140/514356.png,3,2526
+245,465920,Mykhailo,Mudryk,Mudryk,https://resources.premierleague.com/premierleague25/photos/players/110x140/465920.png,3,2526
+246,532605,Andrey,Nascimento dos Santos,Andrey Santos,https://resources.premierleague.com/premierleague25/photos/players/110x140/532605.png,3,2526
+247,491007,Dário,Luís Essugo,D.Essugo,https://resources.premierleague.com/premierleague25/photos/players/110x140/491007.png,3,2526
+248,611134,Kendry,Páez Andrade,Paez,https://resources.premierleague.com/premierleague25/photos/players/110x140/611134.png,3,2526
+249,475168,João Pedro,Junqueira de Jesus,João Pedro,https://resources.premierleague.com/premierleague25/photos/players/110x140/475168.png,4,2526
+250,463034,Liam,Delap,Delap,https://resources.premierleague.com/premierleague25/photos/players/110x140/463034.png,4,2526
+251,517052,Nicolas,Jackson,N.Jackson,https://resources.premierleague.com/premierleague25/photos/players/110x140/517052.png,4,2526
+252,499309,Marc,Guiu Paz,Marc Guiu,https://resources.premierleague.com/premierleague25/photos/players/110x140/499309.png,4,2526
+453,493105,Alejandro,Garnacho Ferreyra,Garnacho,https://resources.premierleague.com/premierleague25/photos/players/110x140/493105.png,3,2526
+672,551210,Jorrel,Hato,Hato,https://resources.premierleague.com/premierleague25/photos/players/110x140/551210.png,2,2526
+743,611912,Landon,Emenalo,Emenalo,https://resources.premierleague.com/premierleague25/photos/players/110x140/611912.png,3,2526
+789,518335,Max,Merrick,Merrick,https://resources.premierleague.com/premierleague25/photos/players/110x140/518335.png,1,2526
+803,499857,Teddy,Sharman-Lowe,Sharman-Lowe,https://resources.premierleague.com/premierleague25/photos/players/110x140/499857.png,1,2526
+829,619734,Jesse,Derry,Derry,https://resources.premierleague.com/premierleague25/photos/players/110x140/619734.png,3,2526
+833,671606,Mathis,Eboué,Eboué,https://resources.premierleague.com/premierleague25/photos/players/110x140/671606.png,3,2526
+834,616286,Ryan,Kavuma-McQueen,Kavuma-McQueen,https://resources.premierleague.com/premierleague25/photos/players/110x140/616286.png,3,2526
+840,567119,Shumaira,Mheuka,Mheuka,https://resources.premierleague.com/premierleague25/photos/players/110x140/567119.png,4,2526
+253,172649,Dean,Henderson,Henderson,https://resources.premierleague.com/premierleague25/photos/players/110x140/172649.png,1,2526
+254,121709,Walter,Benítez,Benitez,https://resources.premierleague.com/premierleague25/photos/players/110x140/121709.png,1,2526
+255,169593,Remi,Matthews,Matthews,https://resources.premierleague.com/premierleague25/photos/players/110x140/169593.png,1,2526
+256,247348,Daniel,Muñoz Mejía,Muñoz,https://resources.premierleague.com/premierleague25/photos/players/110x140/247348.png,2,2526
+257,437499,Maxence,Lacroix,Lacroix,https://resources.premierleague.com/premierleague25/photos/players/110x140/437499.png,2,2526
+258,244723,Tyrick,Mitchell,Mitchell,https://resources.premierleague.com/premierleague25/photos/players/110x140/244723.png,2,2526
+259,218364,Borna,Sosa,Sosa,https://resources.premierleague.com/premierleague25/photos/players/110x140/218364.png,2,2526
+261,427623,Chris,Richards,Richards,https://resources.premierleague.com/premierleague25/photos/players/110x140/427623.png,2,2526
+262,515621,Chadi,Riad Dnanou,Chadi Riad,https://resources.premierleague.com/premierleague25/photos/players/110x140/515621.png,2,2526
+263,57328,Nathaniel,Clyne,Clyne,https://resources.premierleague.com/premierleague25/photos/players/110x140/57328.png,2,2526
+264,156074,Rob,Holding,Holding,https://resources.premierleague.com/premierleague25/photos/players/110x140/156074.png,2,2526
+265,590012,Caleb,Kporha,Kporha,https://resources.premierleague.com/premierleague25/photos/players/110x140/590012.png,2,2526
+267,232185,Ismaïla,Sarr,Sarr,https://resources.premierleague.com/premierleague25/photos/players/110x140/232185.png,3,2526
+268,438464,Cheick,Doucouré,Doucouré,https://resources.premierleague.com/premierleague25/photos/players/110x140/438464.png,3,2526
+269,606921,Romain,Esse,Esse,https://resources.premierleague.com/premierleague25/photos/players/110x140/606921.png,3,2526
+270,108413,Will,Hughes,Hughes,https://resources.premierleague.com/premierleague25/photos/players/110x140/108413.png,3,2526
+271,209400,Daichi,Kamada,Kamada,https://resources.premierleague.com/premierleague25/photos/players/110x140/209400.png,3,2526
+272,152551,Jefferson,Lerma Solís,Lerma,https://resources.premierleague.com/premierleague25/photos/players/110x140/152551.png,3,2526
+273,496221,Adam,Wharton,Wharton,https://resources.premierleague.com/premierleague25/photos/players/110x140/496221.png,3,2526
+274,579075,Asher,Agbinone,Agbinone,https://resources.premierleague.com/premierleague25/photos/players/110x140/579075.png,3,2526
+275,466117,Naouirou,Ahamada,Ahamada,https://resources.premierleague.com/premierleague25/photos/players/110x140/466117.png,3,2526
+276,489706,Justin,Devenny,Devenny,https://resources.premierleague.com/premierleague25/photos/players/110x140/489706.png,3,2526
+277,450535,Malcolm,Ebiowei,Ebiowei,https://resources.premierleague.com/premierleague25/photos/players/110x140/450535.png,3,2526
+278,450542,Jesurun,Rak-Sakyi,J.Rak-Sakyi,https://resources.premierleague.com/premierleague25/photos/players/110x140/450542.png,3,2526
+279,536694,Matheus,França de Oliveira,M.França,https://resources.premierleague.com/premierleague25/photos/players/110x140/536694.png,3,2526
+280,531989,David,Ozoh,Ozoh,https://resources.premierleague.com/premierleague25/photos/players/110x140/531989.png,3,2526
+281,530318,Kaden,Rodney,Rodney,https://resources.premierleague.com/premierleague25/photos/players/110x140/530318.png,3,2526
+282,574398,Franco,Umeh-Chibueze,Umeh,https://resources.premierleague.com/premierleague25/photos/players/110x140/574398.png,3,2526
+283,231747,Jean-Philippe,Mateta,Mateta,https://resources.premierleague.com/premierleague25/photos/players/110x140/231747.png,4,2526
+284,205533,Eddie,Nketiah,Nketiah,https://resources.premierleague.com/premierleague25/photos/players/110x140/205533.png,4,2526
+285,199670,Odsonne,Édouard,Édouard,https://resources.premierleague.com/premierleague25/photos/players/110x140/199670.png,4,2526
+286,576980,Zach,Marsh,Marsh,https://resources.premierleague.com/premierleague25/photos/players/110x140/576980.png,4,2526
+580,242898,Brennan,Johnson,Johnson,https://resources.premierleague.com/premierleague25/photos/players/110x140/242898.png,3,2526
+654,247412,Jørgen,Strand Larsen,Strand Larsen,https://resources.premierleague.com/premierleague25/photos/players/110x140/247412.png,4,2526
+677,485337,Evann,Guessand,Guessand,https://resources.premierleague.com/premierleague25/photos/players/110x140/485337.png,3,2526
+690,590014,Rio,Cardines,Cardines,https://resources.premierleague.com/premierleague25/photos/players/110x140/590014.png,3,2526
+712,488024,Yéremy,Pino Santos,Yeremy,https://resources.premierleague.com/premierleague25/photos/players/110x140/488024.png,3,2526
+723,651426,Jaydee,Canvot,Canvot,https://resources.premierleague.com/premierleague25/photos/players/110x140/651426.png,2,2526
+732,660392,Christantus,Uche,Uche,https://resources.premierleague.com/premierleague25/photos/players/110x140/660392.png,4,2526
+762,672492,Joél,Drakes-Thomas,Drakes-Thomas,https://resources.premierleague.com/premierleague25/photos/players/110x140/672492.png,3,2526
+773,643426,Dean,Benamar,Benamar,https://resources.premierleague.com/premierleague25/photos/players/110x140/643426.png,2,2526
+780,631106,Ben,Casey,Casey,https://resources.premierleague.com/premierleague25/photos/players/110x140/631106.png,4,2526
+793,591384,George,King,King,https://resources.premierleague.com/premierleague25/photos/players/110x140/591384.png,2,2526
+798,502988,Danny,Imray,Imray,https://resources.premierleague.com/premierleague25/photos/players/110x140/502988.png,2,2526
+242,215413,Kiernan,Dewsbury-Hall,Dewsbury-Hall,https://resources.premierleague.com/premierleague25/photos/players/110x140/215413.png,3,2526
+243,550615,Tyrique,George,George,https://resources.premierleague.com/premierleague25/photos/players/110x140/550615.png,3,2526
+287,111234,Jordan,Pickford,Pickford,https://resources.premierleague.com/premierleague25/photos/players/110x140/111234.png,1,2526
+288,229600,Mark,Travers,Travers,https://resources.premierleague.com/premierleague25/photos/players/110x140/229600.png,1,2526
+289,447325,Harry,Tyrer,Tyrer,https://resources.premierleague.com/premierleague25/photos/players/110x140/447325.png,1,2526
+290,480455,Jarrad,Branthwaite,Branthwaite,https://resources.premierleague.com/premierleague25/photos/players/110x140/480455.png,2,2526
+291,17761,James,Tarkowski,Tarkowski,https://resources.premierleague.com/premierleague25/photos/players/110x140/17761.png,2,2526
+292,224967,Vitalii,Mykolenko,Mykolenko,https://resources.premierleague.com/premierleague25/photos/players/110x140/224967.png,2,2526
+293,512462,Jake,O'Brien,O'Brien,https://resources.premierleague.com/premierleague25/photos/players/110x140/512462.png,2,2526
+294,59949,Séamus,Coleman,Coleman,https://resources.premierleague.com/premierleague25/photos/players/110x140/59949.png,2,2526
+295,106611,Michael,Keane,Keane,https://resources.premierleague.com/premierleague25/photos/players/110x140/106611.png,2,2526
+296,243571,Nathan,Patterson,Patterson,https://resources.premierleague.com/premierleague25/photos/players/110x140/243571.png,2,2526
+297,496178,Roman,Dixon,Dixon,https://resources.premierleague.com/premierleague25/photos/players/110x140/496178.png,2,2526
+298,474907,Reece,Welch,Welch,https://resources.premierleague.com/premierleague25/photos/players/110x140/474907.png,2,2526
+299,440993,Iliman,Ndiaye,Ndiaye,https://resources.premierleague.com/premierleague25/photos/players/110x140/440993.png,3,2526
+300,433154,Dwight,McNeil,McNeil,https://resources.premierleague.com/premierleague25/photos/players/110x140/433154.png,3,2526
+301,502697,Carlos,Alcaraz Durán,Alcaraz,https://resources.premierleague.com/premierleague25/photos/players/110x140/502697.png,3,2526
+302,80801,Idrissa Gana,Gueye,Gana,https://resources.premierleague.com/premierleague25/photos/players/110x140/80801.png,3,2526
+303,232928,James,Garner,Garner,https://resources.premierleague.com/premierleague25/photos/players/110x140/232928.png,3,2526
+304,490094,Tim,Iroegbunam,Iroegbunam,https://resources.premierleague.com/premierleague25/photos/players/110x140/490094.png,3,2526
+305,609873,Harrison,Armstrong,Armstrong,https://resources.premierleague.com/premierleague25/photos/players/110x140/609873.png,3,2526
+306,547801,Callum,Bates,Bates,https://resources.premierleague.com/premierleague25/photos/players/110x140/547801.png,3,2526
+307,504296,Coby,Ebere,Ebere,https://resources.premierleague.com/premierleague25/photos/players/110x140/504296.png,3,2526
+308,496279,Isaac,Heath,Heath,https://resources.premierleague.com/premierleague25/photos/players/110x140/496279.png,3,2526
+309,491557,Jenson,Metcalfe,Metcalfe,https://resources.premierleague.com/premierleague25/photos/players/110x140/491557.png,3,2526
+310,586309,Thierno,Barry,Barry,https://resources.premierleague.com/premierleague25/photos/players/110x140/586309.png,4,2526
+311,486385,Norberto Bercique,Gomes Betuncal,Beto,https://resources.premierleague.com/premierleague25/photos/players/110x140/486385.png,4,2526
+312,491012,Youssef,Ramalho Chermiti,Y.Chermiti,https://resources.premierleague.com/premierleague25/photos/players/110x140/491012.png,4,2526
+313,536241,Martin,Sherif,Sherif,https://resources.premierleague.com/premierleague25/photos/players/110x140/536241.png,4,2526
+419,114283,Jack,Grealish,Grealish,https://resources.premierleague.com/premierleague25/photos/players/110x140/114283.png,3,2526
+630,138001,Tom,King,King,https://resources.premierleague.com/premierleague25/photos/players/110x140/138001.png,1,2526
+667,499300,Adam,Aznou,Aznou,https://resources.premierleague.com/premierleague25/photos/players/110x140/499300.png,2,2526
+704,461446,Tyler,Onyango,Onyango,https://resources.premierleague.com/premierleague25/photos/players/110x140/461446.png,3,2526
+705,491745,Elijah,Campbell,Campbell,https://resources.premierleague.com/premierleague25/photos/players/110x140/491745.png,2,2526
+707,496661,Tyler,Dibling,Dibling,https://resources.premierleague.com/premierleague25/photos/players/110x140/496661.png,3,2526
+728,513466,Merlin,Röhl,Röhl,https://resources.premierleague.com/premierleague25/photos/players/110x140/513466.png,3,2526
+779,629068,Braiden,Graham,Graham,https://resources.premierleague.com/premierleague25/photos/players/110x140/629068.png,4,2526
+314,80201,Bernd,Leno,Leno,https://resources.premierleague.com/premierleague25/photos/players/110x140/80201.png,1,2526
+315,428971,Steven,Benda,Benda,https://resources.premierleague.com/premierleague25/photos/players/110x140/428971.png,1,2526
+316,169528,Antonee,Robinson,Robinson,https://resources.premierleague.com/premierleague25/photos/players/110x140/169528.png,2,2526
+317,174874,Joachim,Andersen,Andersen,https://resources.premierleague.com/premierleague25/photos/players/110x140/174874.png,2,2526
+318,232892,Calvin,Bassey,Bassey,https://resources.premierleague.com/premierleague25/photos/players/110x140/232892.png,2,2526
+319,166477,Timothy,Castagne,Castagne,https://resources.premierleague.com/premierleague25/photos/players/110x140/166477.png,2,2526
+320,219924,Issa,Diop,Diop,https://resources.premierleague.com/premierleague25/photos/players/110x140/219924.png,2,2526
+321,246301,Jorge,Cuenca Barreno,J.Cuenca,https://resources.premierleague.com/premierleague25/photos/players/110x140/246301.png,2,2526
+322,167074,Kenny,Tete,Tete,https://resources.premierleague.com/premierleague25/photos/players/110x140/167074.png,2,2526
+323,591385,Samuel,Amissah,Amissah,https://resources.premierleague.com/premierleague25/photos/players/110x140/591385.png,2,2526
+324,153133,Alex,Iwobi,Iwobi,https://resources.premierleague.com/premierleague25/photos/players/110x140/153133.png,3,2526
+325,209289,Emile,Smith Rowe,Smith Rowe,https://resources.premierleague.com/premierleague25/photos/players/110x140/209289.png,3,2526
+327,156689,Andreas,Hoelgebaum Pereira,Andreas,https://resources.premierleague.com/premierleague25/photos/players/110x140/156689.png,3,2526
+328,184349,Ryan,Sessegnon,Sessegnon,https://resources.premierleague.com/premierleague25/photos/players/110x140/184349.png,3,2526
+329,153682,Harry,Wilson,Wilson,https://resources.premierleague.com/premierleague25/photos/players/110x140/153682.png,3,2526
+330,207189,Sander,Berge,Berge,https://resources.premierleague.com/premierleague25/photos/players/110x140/207189.png,3,2526
+331,76357,Tom,Cairney,Cairney,https://resources.premierleague.com/premierleague25/photos/players/110x140/76357.png,3,2526
+332,212314,Saša,Lukić,Lukić,https://resources.premierleague.com/premierleague25/photos/players/110x140/212314.png,3,2526
+333,573062,Martial,Godo,Godo,https://resources.premierleague.com/premierleague25/photos/players/110x140/573062.png,3,2526
+334,515024,Luke,Harris,Harris,https://resources.premierleague.com/premierleague25/photos/players/110x140/515024.png,3,2526
+335,577725,Josh,King,King,https://resources.premierleague.com/premierleague25/photos/players/110x140/577725.png,3,2526
+336,153366,Harrison,Reed,Reed,https://resources.premierleague.com/premierleague25/photos/players/110x140/153366.png,3,2526
+337,102057,Raúl,Jiménez Rodríguez,Raúl,https://resources.premierleague.com/premierleague25/photos/players/110x140/102057.png,4,2526
+338,244042,Rodrigo,Muniz Carvalho,Muniz,https://resources.premierleague.com/premierleague25/photos/players/110x140/244042.png,4,2526
+424,477555,Oscar,Bobb,Bobb,https://resources.premierleague.com/premierleague25/photos/players/110x140/477555.png,3,2526
+664,86873,Benjamin,Lecomte,Lecomte,https://resources.premierleague.com/premierleague25/photos/players/110x140/86873.png,1,2526
+727,218328,Samuel,Chukwueze,Chukwueze,https://resources.premierleague.com/premierleague25/photos/players/110x140/218328.png,3,2526
+731,560552,Kevin,Santos Lopes de Macedo,Kevin,https://resources.premierleague.com/premierleague25/photos/players/110x140/560552.png,3,2526
+737,631786,Jonah,Kusi-Asare,Kusi-Asare,https://resources.premierleague.com/premierleague25/photos/players/110x140/631786.png,4,2526
+770,619536,Seth,Ridgeon,Ridgeon,https://resources.premierleague.com/premierleague25/photos/players/110x140/619536.png,3,2526
+786,505079,Alfie,McNally,McNally,https://resources.premierleague.com/premierleague25/photos/players/110x140/505079.png,1,2526
+168,536916,Facundo,Buonanotte,Buonanotte,https://resources.premierleague.com/premierleague25/photos/players/110x140/536916.png,3,2526
+339,437495,Illan,Meslier,Meslier,https://resources.premierleague.com/premierleague25/photos/players/110x140/437495.png,1,2526
+340,97846,Alex,Cairns,Cairns,https://resources.premierleague.com/premierleague25/photos/players/110x140/97846.png,1,2526
+341,59735,Karl,Darlow,Darlow,https://resources.premierleague.com/premierleague25/photos/players/110x140/59735.png,1,2526
+342,226182,Jayden,Bogle,Bogle,https://resources.premierleague.com/premierleague25/photos/players/110x140/226182.png,2,2526
+343,222694,Pascal,Struijk,Struijk,https://resources.premierleague.com/premierleague25/photos/players/110x140/222694.png,2,2526
+344,434752,Jaka,Bijol,Bijol,https://resources.premierleague.com/premierleague25/photos/players/110x140/434752.png,2,2526
+345,437738,Sebastiaan,Bornauw,Bornauw,https://resources.premierleague.com/premierleague25/photos/players/110x140/437738.png,2,2526
+346,113564,Sam,Byram,Byram,https://resources.premierleague.com/premierleague25/photos/players/110x140/113564.png,2,2526
+347,243526,Gabriel,Gudmundsson,Gudmundsson,https://resources.premierleague.com/premierleague25/photos/players/110x140/243526.png,2,2526
+348,214225,Joe,Rodon,Rodon,https://resources.premierleague.com/premierleague25/photos/players/110x140/214225.png,2,2526
+349,492368,Isaac,Schmidt,Schmidt,https://resources.premierleague.com/premierleague25/photos/players/110x140/492368.png,2,2526
+350,427637,Brenden,Aaronson,Aaronson,https://resources.premierleague.com/premierleague25/photos/players/110x140/427637.png,3,2526
+351,492859,Wilfried,Gnonto,Gnonto,https://resources.premierleague.com/premierleague25/photos/players/110x140/492859.png,3,2526
+352,221399,Jack,Harrison,Harrison,https://resources.premierleague.com/premierleague25/photos/players/110x140/221399.png,3,2526
+353,200617,Daniel,James,James,https://resources.premierleague.com/premierleague25/photos/players/110x140/200617.png,3,2526
+354,199598,Ethan,Ampadu,Ampadu,https://resources.premierleague.com/premierleague25/photos/players/110x140/199598.png,3,2526
+355,248937,Sam,Greenwood,Greenwood,https://resources.premierleague.com/premierleague25/photos/players/110x140/248937.png,3,2526
+356,486520,Ilia,Gruev,Gruev,https://resources.premierleague.com/premierleague25/photos/players/110x140/486520.png,3,2526
+357,433952,Largie,Ramazani,Ramazani,https://resources.premierleague.com/premierleague25/photos/players/110x140/433952.png,3,2526
+358,248056,Tanaka,Ao,Tanaka,https://resources.premierleague.com/premierleague25/photos/players/110x140/248056.png,3,2526
+359,536119,Charlie,Crew,Crew,https://resources.premierleague.com/premierleague25/photos/players/110x140/536119.png,3,2526
+360,462635,Joe,Gelhardt,Gelhardt,https://resources.premierleague.com/premierleague25/photos/players/110x140/462635.png,3,2526
+361,470294,Darko,Gyabi,Gyabi,https://resources.premierleague.com/premierleague25/photos/players/110x140/470294.png,3,2526
+362,235826,Joël,Piroe,Piroe,https://resources.premierleague.com/premierleague25/photos/players/110x140/235826.png,4,2526
+363,106617,Patrick,Bamford,Bamford,https://resources.premierleague.com/premierleague25/photos/players/110x140/106617.png,4,2526
+364,565297,Mateo,Joseph Fernández-Regatillo,Mateo Joseph,https://resources.premierleague.com/premierleague25/photos/players/110x140/565297.png,4,2526
+365,174594,Lukas,Nmecha,Nmecha,https://resources.premierleague.com/premierleague25/photos/players/110x140/174594.png,4,2526
+493,180135,Sean,Longstaff,Longstaff,https://resources.premierleague.com/premierleague25/photos/players/110x140/180135.png,3,2526
+660,466525,Anton,Stach,Stach,https://resources.premierleague.com/premierleague25/photos/players/110x140/466525.png,3,2526
+665,201595,Lucas Estella,Perri,Perri,https://resources.premierleague.com/premierleague25/photos/players/110x140/201595.png,1,2526
+691,177815,Dominic,Calvert-Lewin,Calvert-Lewin,https://resources.premierleague.com/premierleague25/photos/players/110x140/177815.png,4,2526
+698,435997,Noah,Okafor,Okafor,https://resources.premierleague.com/premierleague25/photos/players/110x140/435997.png,3,2526
+706,220627,James,Justin,Justin,https://resources.premierleague.com/premierleague25/photos/players/110x140/220627.png,2,2526
+741,600882,Harry,Gray,Gray,https://resources.premierleague.com/premierleague25/photos/players/110x140/600882.png,4,2526
+787,565863,Sam,Chambers,Chambers,https://resources.premierleague.com/premierleague25/photos/players/110x140/565863.png,3,2526
+837,643970,Jayden,Lienou,Lienou,https://resources.premierleague.com/premierleague25/photos/players/110x140/643970.png,2,2526
+838,577978,Rhys,Chadwick,Chadwick,https://resources.premierleague.com/premierleague25/photos/players/110x140/577978.png,3,2526
+839,592740,Alfie,Cresswell,Cresswell,https://resources.premierleague.com/premierleague25/photos/players/110x140/592740.png,3,2526
+366,116535,Alisson,Becker,A.Becker,https://resources.premierleague.com/premierleague25/photos/players/110x140/116535.png,1,2526
+367,449027,Giorgi,Mamardashvili,Mamardashvili,https://resources.premierleague.com/premierleague25/photos/players/110x140/449027.png,1,2526
+368,586268,Ármin,Pécsi,Pécsi,https://resources.premierleague.com/premierleague25/photos/players/110x140/586268.png,1,2526
+369,155503,Freddie,Woodman,Woodman,https://resources.premierleague.com/premierleague25/photos/players/110x140/155503.png,1,2526
+370,216094,Jeremie,Frimpong,Frimpong,https://resources.premierleague.com/premierleague25/photos/players/110x140/216094.png,2,2526
+371,544877,Milos,Kerkez,Kerkez,https://resources.premierleague.com/premierleague25/photos/players/110x140/544877.png,2,2526
+372,122798,Andrew,Robertson,Robertson,https://resources.premierleague.com/premierleague25/photos/players/110x140/122798.png,2,2526
+373,97032,Virgil,van Dijk,Virgil,https://resources.premierleague.com/premierleague25/photos/players/110x140/97032.png,2,2526
+374,204716,Ibrahima,Konaté,Konaté,https://resources.premierleague.com/premierleague25/photos/players/110x140/204716.png,2,2526
+375,492777,Conor,Bradley,Bradley,https://resources.premierleague.com/premierleague25/photos/players/110x140/492777.png,2,2526
+376,171287,Joe,Gomez,Gomez,https://resources.premierleague.com/premierleague25/photos/players/110x140/171287.png,2,2526
+377,214285,Konstantinos,Tsimikas,Tsimikas,https://resources.premierleague.com/premierleague25/photos/players/110x140/214285.png,2,2526
+378,611926,Amara,Nallo,Nallo,https://resources.premierleague.com/premierleague25/photos/players/110x140/611926.png,2,2526
+379,219937,Rhys,Williams,R.Williams,https://resources.premierleague.com/premierleague25/photos/players/110x140/219937.png,2,2526
+380,489580,Calvin,Ramsay,Ramsay,https://resources.premierleague.com/premierleague25/photos/players/110x140/489580.png,2,2526
+381,118748,Mohamed,Salah,M.Salah,https://resources.premierleague.com/premierleague25/photos/players/110x140/118748.png,3,2526
+382,494595,Florian,Wirtz,Wirtz,https://resources.premierleague.com/premierleague25/photos/players/110x140/494595.png,3,2526
+383,244731,Luis,Díaz Marulanda,Luis Díaz,https://resources.premierleague.com/premierleague25/photos/players/110x140/244731.png,3,2526
+384,243298,Cody,Gakpo,Gakpo,https://resources.premierleague.com/premierleague25/photos/players/110x140/243298.png,3,2526
+385,223541,Federico,Chiesa,Chiesa,https://resources.premierleague.com/premierleague25/photos/players/110x140/223541.png,3,2526
+386,243016,Alexis,Mac Allister,Mac Allister,https://resources.premierleague.com/premierleague25/photos/players/110x140/243016.png,3,2526
+387,424876,Dominik,Szoboszlai,Szoboszlai,https://resources.premierleague.com/premierleague25/photos/players/110x140/424876.png,3,2526
+388,206915,Curtis,Jones,C.Jones,https://resources.premierleague.com/premierleague25/photos/players/110x140/206915.png,3,2526
+390,441266,Ryan,Gravenberch,Gravenberch,https://resources.premierleague.com/premierleague25/photos/players/110x140/441266.png,3,2526
+392,158983,Endo,Wataru,Endo,https://resources.premierleague.com/premierleague25/photos/players/110x140/158983.png,3,2526
+393,535928,Stefan,Bajčetić Maquieira,Bajcetic,https://resources.premierleague.com/premierleague25/photos/players/110x140/535928.png,3,2526
+394,491501,James,McConnell,McConnell,https://resources.premierleague.com/premierleague25/photos/players/110x140/491501.png,3,2526
+395,440148,Tyler,Morton,Morton,https://resources.premierleague.com/premierleague25/photos/players/110x140/440148.png,3,2526
+396,591386,Trey,Nyoni,Nyoni,https://resources.premierleague.com/premierleague25/photos/players/110x140/591386.png,3,2526
+397,447203,Darwin,Núñez Ribeiro,Darwin,https://resources.premierleague.com/premierleague25/photos/players/110x140/447203.png,4,2526
+398,500058,Jayden,Danns,Danns,https://resources.premierleague.com/premierleague25/photos/players/110x140/500058.png,4,2526
+499,219168,Alexander,Isak,Isak,https://resources.premierleague.com/premierleague25/photos/players/110x140/219168.png,4,2526
+661,510663,Hugo,Ekitiké,Ekitiké,https://resources.premierleague.com/premierleague25/photos/players/110x140/510663.png,4,2526
+686,611922,Rio,Ngumoha,Ngumoha,https://resources.premierleague.com/premierleague25/photos/players/110x140/611922.png,3,2526
+692,647681,Giovanni,Leoni,Leoni,https://resources.premierleague.com/premierleague25/photos/players/110x140/647681.png,2,2526
+746,596042,Kieran,Morrison,Morrison,https://resources.premierleague.com/premierleague25/photos/players/110x140/596042.png,3,2526
+760,519440,Wellity,Lucky,Lucky,https://resources.premierleague.com/premierleague25/photos/players/110x140/519440.png,2,2526
+830,677945,Will,Wright,Wright,https://resources.premierleague.com/premierleague25/photos/players/110x140/677945.png,4,2526
+832,718875,Talla,Ndiaye,Ndiaye,https://resources.premierleague.com/premierleague25/photos/players/110x140/718875.png,2,2526
+82,437730,Antoine,Semenyo,Semenyo,https://resources.premierleague.com/premierleague25/photos/players/110x140/437730.png,3,2526
+182,432720,James,Trafford,Trafford,https://resources.premierleague.com/premierleague25/photos/players/110x140/432720.png,1,2526
+260,209036,Marc,Guéhi,Guéhi,https://resources.premierleague.com/premierleague25/photos/players/110x140/209036.png,2,2526
+399,121160,Ederson,Santana de Moraes,Ederson M.,https://resources.premierleague.com/premierleague25/photos/players/110x140/121160.png,1,2526
+401,122074,Marcus,Bettinelli,Bettinelli,https://resources.premierleague.com/premierleague25/photos/players/110x140/122074.png,1,2526
+402,448514,Rayan,Aït-Nouri,Aït-Nouri,https://resources.premierleague.com/premierleague25/photos/players/110x140/448514.png,2,2526
+403,477424,Joško,Gvardiol,Gvardiol,https://resources.premierleague.com/premierleague25/photos/players/110x140/477424.png,2,2526
+404,211975,Manuel,Akanji,Akanji,https://resources.premierleague.com/premierleague25/photos/players/110x140/211975.png,2,2526
+405,126184,Nathan,Aké,Aké,https://resources.premierleague.com/premierleague25/photos/players/110x140/126184.png,2,2526
+406,578153,Abdukodir,Khusanov,Khusanov,https://resources.premierleague.com/premierleague25/photos/players/110x140/578153.png,2,2526
+407,465351,Matheus,Nunes,Matheus N.,https://resources.premierleague.com/premierleague25/photos/players/110x140/465351.png,2,2526
+408,171314,Rúben,dos Santos Gato Alves Dias,Rúben,https://resources.premierleague.com/premierleague25/photos/players/110x140/171314.png,2,2526
+409,97299,John,Stones,Stones,https://resources.premierleague.com/premierleague25/photos/players/110x140/97299.png,2,2526
+410,477064,Rico,Lewis,Lewis,https://resources.premierleague.com/premierleague25/photos/players/110x140/477064.png,2,2526
+411,472769,Nico,O'Reilly,O'Reilly,https://resources.premierleague.com/premierleague25/photos/players/110x140/472769.png,2,2526
+412,616222,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,https://resources.premierleague.com/premierleague25/photos/players/110x140/616222.png,2,2526
+413,438234,Omar,Marmoush,Marmoush,https://resources.premierleague.com/premierleague25/photos/players/110x140/438234.png,3,2526
+414,209244,Phil,Foden,Foden,https://resources.premierleague.com/premierleague25/photos/players/110x140/209244.png,3,2526
+415,510281,Sávio,Moreira de Oliveira,Savinho,https://resources.premierleague.com/premierleague25/photos/players/110x140/510281.png,3,2526
+416,165809,Bernardo,Mota Veiga de Carvalho e Silva,Bernardo,https://resources.premierleague.com/premierleague25/photos/players/110x140/165809.png,3,2526
+417,466052,Rayan,Cherki,Cherki,https://resources.premierleague.com/premierleague25/photos/players/110x140/466052.png,3,2526
+418,248875,Jérémy,Doku,Doku,https://resources.premierleague.com/premierleague25/photos/players/110x140/248875.png,3,2526
+420,59859,İlkay,Gündoğan,Gündoğan,https://resources.premierleague.com/premierleague25/photos/players/110x140/59859.png,3,2526
+421,220566,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo,https://resources.premierleague.com/premierleague25/photos/players/110x140/220566.png,3,2526
+422,91651,Mateo,Kovačić,Kovačić,https://resources.premierleague.com/premierleague25/photos/players/110x140/91651.png,3,2526
+423,465694,Nico,González Iglesias,N.Gonzalez,https://resources.premierleague.com/premierleague25/photos/players/110x140/465694.png,3,2526
+425,575204,Claudio,Echeverri,Echeverri,https://resources.premierleague.com/premierleague25/photos/players/110x140/575204.png,3,2526
+427,433036,Tijjani,Reijnders,Reijnders,https://resources.premierleague.com/premierleague25/photos/players/110x140/433036.png,3,2526
+428,566164,Sverre,Nypan,Nypan,https://resources.premierleague.com/premierleague25/photos/players/110x140/566164.png,3,2526
+429,155405,Kalvin,Phillips,Phillips,https://resources.premierleague.com/premierleague25/photos/players/110x140/155405.png,3,2526
+430,223094,Erling,Haaland,Haaland,https://resources.premierleague.com/premierleague25/photos/players/110x140/223094.png,4,2526
+736,204936,Gianluigi,Donnarumma,Donnarumma,https://resources.premierleague.com/premierleague25/photos/players/110x140/204936.png,1,2526
+739,590039,Divine,Mukasa,Mukasa,https://resources.premierleague.com/premierleague25/photos/players/110x140/590039.png,3,2526
+740,566213,Stephen,Mfuni,Mfuni,https://resources.premierleague.com/premierleague25/photos/players/110x140/566213.png,2,2526
+742,616288,Ryan,McAidoo,McAidoo,https://resources.premierleague.com/premierleague25/photos/players/110x140/616288.png,3,2526
+763,516234,Charlie,Gray,Gray,https://resources.premierleague.com/premierleague25/photos/players/110x140/516234.png,3,2526
+764,580921,Reigan,Heskey,Heskey,https://resources.premierleague.com/premierleague25/photos/players/110x140/580921.png,3,2526
+794,494307,Max,Alleyne,Alleyne,https://resources.premierleague.com/premierleague25/photos/players/110x140/494307.png,2,2526
+119,446008,Bryan,Mbeumo,Mbeumo,https://resources.premierleague.com/premierleague25/photos/players/110x140/446008.png,3,2526
+431,451302,Altay,Bayındır,Bayindir,https://resources.premierleague.com/premierleague25/photos/players/110x140/451302.png,1,2526
+432,202641,André,Onana,Onana,https://resources.premierleague.com/premierleague25/photos/players/110x140/202641.png,1,2526
+433,588555,Elyh,Harrison,Harrison,https://resources.premierleague.com/premierleague25/photos/players/110x140/588555.png,1,2526
+434,21205,Tom,Heaton,Heaton,https://resources.premierleague.com/premierleague25/photos/players/110x140/21205.png,1,2526
+435,461537,Dermot,Mee,Mee,https://resources.premierleague.com/premierleague25/photos/players/110x140/461537.png,1,2526
+436,209365,Matthijs,de Ligt,De Ligt,https://resources.premierleague.com/premierleague25/photos/players/110x140/209365.png,2,2526
+437,221820,Lisandro,Martínez,Martinez,https://resources.premierleague.com/premierleague25/photos/players/110x140/221820.png,2,2526
+438,230001,Noussair,Mazraoui,Mazraoui,https://resources.premierleague.com/premierleague25/photos/players/110x140/230001.png,2,2526
+439,661712,Diego,León Blanco,D.Leon,https://resources.premierleague.com/premierleague25/photos/players/110x140/661712.png,2,2526
+440,216051,Diogo,Dalot Teixeira,Dalot,https://resources.premierleague.com/premierleague25/photos/players/110x140/216051.png,2,2526
+441,596777,Patrick,Dorgu,Dorgu,https://resources.premierleague.com/premierleague25/photos/players/110x140/596777.png,2,2526
+442,95658,Harry,Maguire,Maguire,https://resources.premierleague.com/premierleague25/photos/players/110x140/95658.png,2,2526
+443,106760,Luke,Shaw,Shaw,https://resources.premierleague.com/premierleague25/photos/players/110x140/106760.png,2,2526
+444,550864,Leny,Yoro,Yoro,https://resources.premierleague.com/premierleague25/photos/players/110x140/550864.png,2,2526
+445,577974,Harry,Amass,Amass,https://resources.premierleague.com/premierleague25/photos/players/110x140/577974.png,2,2526
+446,547676,Tyler,Fredricson,Fredricson,https://resources.premierleague.com/premierleague25/photos/players/110x140/547676.png,2,2526
+447,606745,Ayden,Heaven,Heaven,https://resources.premierleague.com/premierleague25/photos/players/110x140/606745.png,2,2526
+448,222690,Tyrell,Malacia,Malacia,https://resources.premierleague.com/premierleague25/photos/players/110x140/222690.png,2,2526
+449,141746,Bruno,Borges Fernandes,B.Fernandes,https://resources.premierleague.com/premierleague25/photos/players/110x140/141746.png,3,2526
+450,430871,Matheus,Santos Carneiro da Cunha,Cunha,https://resources.premierleague.com/premierleague25/photos/players/110x140/430871.png,3,2526
+451,176297,Marcus,Rashford,Rashford,https://resources.premierleague.com/premierleague25/photos/players/110x140/176297.png,3,2526
+452,493250,Amad,Diallo,Amad,https://resources.premierleague.com/premierleague25/photos/players/110x140/493250.png,3,2526
+454,467169,Antony,dos Santos,Antony,https://resources.premierleague.com/premierleague25/photos/players/110x140/467169.png,3,2526
+455,184341,Mason,Mount,Mount,https://resources.premierleague.com/premierleague25/photos/players/110x140/184341.png,3,2526
+457,61256,Carlos Henrique,Casimiro,Casemiro,https://resources.premierleague.com/premierleague25/photos/players/110x140/61256.png,3,2526
+458,516895,Kobbie,Mainoo,Mainoo,https://resources.premierleague.com/premierleague25/photos/players/110x140/516895.png,3,2526
+459,232112,Manuel,Ugarte Ribeiro,Ugarte,https://resources.premierleague.com/premierleague25/photos/players/110x140/232112.png,3,2526
+460,490881,Toby,Collyer,Collyer,https://resources.premierleague.com/premierleague25/photos/players/110x140/490881.png,3,2526
+461,556639,Jayce,Fitzgerald,Fitzgerald,https://resources.premierleague.com/premierleague25/photos/players/110x140/556639.png,3,2526
+462,547037,Jack,Fletcher,J.Fletcher,https://resources.premierleague.com/premierleague25/photos/players/110x140/547037.png,3,2526
+463,618873,Sékou,Koné,Kone,https://resources.premierleague.com/premierleague25/photos/players/110x140/618873.png,3,2526
+464,559684,Jack,Moorhouse,Moorhouse,https://resources.premierleague.com/premierleague25/photos/players/110x140/559684.png,3,2526
+465,497894,Rasmus,Højlund,Højlund,https://resources.premierleague.com/premierleague25/photos/players/110x140/497894.png,4,2526
+466,458249,Joshua,Zirkzee,Zirkzee,https://resources.premierleague.com/premierleague25/photos/players/110x140/458249.png,4,2526
+467,596047,Chido,Obi,Obi,https://resources.premierleague.com/premierleague25/photos/players/110x140/596047.png,4,2526
+468,575034,Ethan,Wheatley,Wheatley,https://resources.premierleague.com/premierleague25/photos/players/110x140/575034.png,4,2526
+681,485711,Benjamin,Sesko,Šeško,https://resources.premierleague.com/premierleague25/photos/players/110x140/485711.png,4,2526
+733,465247,Senne,Lammens,Lammens,https://resources.premierleague.com/premierleague25/photos/players/110x140/465247.png,1,2526
+755,576628,Shea,Lacey,Lacey,https://resources.premierleague.com/premierleague25/photos/players/110x140/576628.png,3,2526
+769,576620,Bendito,Mantato,Bendito Mantato,https://resources.premierleague.com/premierleague25/photos/players/110x140/576620.png,3,2526
+771,519913,Tyler,Fletcher,Fletcher,https://resources.premierleague.com/premierleague25/photos/players/110x140/519913.png,3,2526
+788,576637,Godwill,Kukonki,Kukonki,https://resources.premierleague.com/premierleague25/photos/players/110x140/576637.png,2,2526
+827,576634,Jim,Thwaites,Thwaites,https://resources.premierleague.com/premierleague25/photos/players/110x140/576634.png,3,2526
+52,232653,Jacob,Ramsey,J.Ramsey,https://resources.premierleague.com/premierleague25/photos/players/110x140/232653.png,3,2526
+135,216646,Yoane,Wissa,Wissa,https://resources.premierleague.com/premierleague25/photos/players/110x140/216646.png,4,2526
+469,98747,Nick,Pope,Pope,https://resources.premierleague.com/premierleague25/photos/players/110x140/98747.png,1,2526
+471,81441,Mark,Gillespie,Gillespie,https://resources.premierleague.com/premierleague25/photos/players/110x140/81441.png,1,2526
+472,111452,Odysseas,Vlachodimos,Odysseas,https://resources.premierleague.com/premierleague25/photos/players/110x140/111452.png,1,2526
+473,487838,Lewis,Hall,Hall,https://resources.premierleague.com/premierleague25/photos/players/110x140/487838.png,2,2526
+474,119471,Fabian,Schär,Schär,https://resources.premierleague.com/premierleague25/photos/players/110x140/119471.png,2,2526
+475,220237,Sven,Botman,Botman,https://resources.premierleague.com/premierleague25/photos/players/110x140/220237.png,2,2526
+476,78916,Dan,Burn,Burn,https://resources.premierleague.com/premierleague25/photos/players/110x140/78916.png,2,2526
+477,441191,Tino,Livramento,Livramento,https://resources.premierleague.com/premierleague25/photos/players/110x140/441191.png,2,2526
+478,77794,Kieran,Trippier,Trippier,https://resources.premierleague.com/premierleague25/photos/players/110x140/77794.png,2,2526
+479,111773,Emil,Krafth,Krafth,https://resources.premierleague.com/premierleague25/photos/players/110x140/111773.png,2,2526
+480,101148,Jamaal,Lascelles,Lascelles,https://resources.premierleague.com/premierleague25/photos/players/110x140/101148.png,2,2526
+481,545477,Alex,Murphy,A.Murphy,https://resources.premierleague.com/premierleague25/photos/players/110x140/545477.png,2,2526
+482,441024,Harrison,Ashby,Ashby,https://resources.premierleague.com/premierleague25/photos/players/110x140/441024.png,2,2526
+483,578512,Miodrag,Pivaš,Pivas,https://resources.premierleague.com/premierleague25/photos/players/110x140/578512.png,2,2526
+484,169359,Matt,Targett,Targett,https://resources.premierleague.com/premierleague25/photos/players/110x140/169359.png,2,2526
+485,232826,Anthony,Gordon,Gordon,https://resources.premierleague.com/premierleague25/photos/players/110x140/232826.png,3,2526
+486,449434,Anthony,Elanga,Elanga,https://resources.premierleague.com/premierleague25/photos/players/110x140/449434.png,3,2526
+487,201666,Harvey,Barnes,Barnes,https://resources.premierleague.com/premierleague25/photos/players/110x140/201666.png,3,2526
+488,208706,Bruno,Guimarães Rodriguez Moura,Bruno G.,https://resources.premierleague.com/premierleague25/photos/players/110x140/208706.png,3,2526
+489,114243,Jacob,Murphy,J.Murphy,https://resources.premierleague.com/premierleague25/photos/players/110x140/114243.png,3,2526
+490,180974,Joelinton Cássio,Apolinário de Lira,Joelinton,https://resources.premierleague.com/premierleague25/photos/players/110x140/180974.png,3,2526
+491,432422,Sandro,Tonali,Tonali,https://resources.premierleague.com/premierleague25/photos/players/110x140/432422.png,3,2526
+492,640108,Antoñito,Cordero Campillo,Antoñito C.,https://resources.premierleague.com/premierleague25/photos/players/110x140/640108.png,3,2526
+494,200089,Joe,Willock,Willock,https://resources.premierleague.com/premierleague25/photos/players/110x140/200089.png,3,2526
+495,153127,Isaac,Hayden,Hayden,https://resources.premierleague.com/premierleague25/photos/players/110x140/153127.png,3,2526
+496,564510,Garang,Kuol,Kuol,https://resources.premierleague.com/premierleague25/photos/players/110x140/564510.png,3,2526
+497,547719,Lewis,Miley,L.Miley,https://resources.premierleague.com/premierleague25/photos/players/110x140/547719.png,3,2526
+498,461484,Joe,White,White,https://resources.premierleague.com/premierleague25/photos/players/110x140/461484.png,3,2526
+500,538207,William,Osula,Osula,https://resources.premierleague.com/premierleague25/photos/players/110x140/538207.png,4,2526
+501,599303,Sean,Neave,Neave,https://resources.premierleague.com/premierleague25/photos/players/110x140/599303.png,4,2526
+674,225321,Aaron,Ramsdale,Ramsdale,https://resources.premierleague.com/premierleague25/photos/players/110x140/225321.png,1,2526
+684,465642,Malick,Thiaw,Thiaw,https://resources.premierleague.com/premierleague25/photos/players/110x140/465642.png,2,2526
+689,623110,Seung-Soo,Park,Seung soo,https://resources.premierleague.com/premierleague25/photos/players/110x140/623110.png,3,2526
+714,470313,Nick,Woltemade,Woltemade,https://resources.premierleague.com/premierleague25/photos/players/110x140/470313.png,4,2526
+753,19236,John,Ruddy,Ruddy,https://resources.premierleague.com/premierleague25/photos/players/110x140/19236.png,1,2526
+765,553746,Leo,Shahar,Shahar,https://resources.premierleague.com/premierleague25/photos/players/110x140/553746.png,2,2526
+772,666607,Sam,Alabi,Alabi,https://resources.premierleague.com/premierleague25/photos/players/110x140/666607.png,3,2526
+12,206325,Oleksandr,Zinchenko,Zinchenko,https://resources.premierleague.com/premierleague25/photos/players/110x140/206325.png,2,2526
+400,88248,Stefan,Ortega Moreno,Ortega Moreno,https://resources.premierleague.com/premierleague25/photos/players/110x140/88248.png,1,2526
+426,432714,James,McAtee,McAtee,https://resources.premierleague.com/premierleague25/photos/players/110x140/432714.png,3,2526
+502,85633,Matz,Sels,Sels,https://resources.premierleague.com/premierleague25/photos/players/110x140/85633.png,1,2526
+503,475123,Carlos Miguel,dos Santos Pereira,C.Miguel,https://resources.premierleague.com/premierleague25/photos/players/110x140/475123.png,1,2526
+504,224068,Matt,Turner,Turner,https://resources.premierleague.com/premierleague25/photos/players/110x140/224068.png,1,2526
+505,227444,Nikola,Milenković,Milenković,https://resources.premierleague.com/premierleague25/photos/players/110x140/227444.png,2,2526
+506,575476,Murillo,Costa dos Santos,Murillo,https://resources.premierleague.com/premierleague25/photos/players/110x140/575476.png,2,2526
+507,159506,Ola,Aina,Aina,https://resources.premierleague.com/premierleague25/photos/players/110x140/159506.png,2,2526
+508,215136,Neco,Williams,N.Williams,https://resources.premierleague.com/premierleague25/photos/players/110x140/215136.png,2,2526
+509,451432,David,Mota Veiga Teixeira do Carmo,David Carmo,https://resources.premierleague.com/premierleague25/photos/players/110x140/451432.png,2,2526
+510,575458,Jair,Paula da Cunha Filho,Jair Cunha,https://resources.premierleague.com/premierleague25/photos/players/110x140/575458.png,2,2526
+511,485047,Felipe,Rodrigues da Silva,Morato,https://resources.premierleague.com/premierleague25/photos/players/110x140/485047.png,2,2526
+512,204822,Omar,Richards,O.Richards,https://resources.premierleague.com/premierleague25/photos/players/110x140/204822.png,2,2526
+513,549067,Zach,Abbott,Abbott,https://resources.premierleague.com/premierleague25/photos/players/110x140/549067.png,2,2526
+514,90585,Willy,Boly,Boly,https://resources.premierleague.com/premierleague25/photos/players/110x140/90585.png,2,2526
+515,222531,Morgan,Gibbs-White,Gibbs-White,https://resources.premierleague.com/premierleague25/photos/players/110x140/222531.png,3,2526
+516,209046,Callum,Hudson-Odoi,Hudson-Odoi,https://resources.premierleague.com/premierleague25/photos/players/110x140/209046.png,3,2526
+517,215379,Elliot,Anderson,Anderson,https://resources.premierleague.com/premierleague25/photos/players/110x140/215379.png,3,2526
+518,510500,João Pedro,Ferreira da Silva,Jota,https://resources.premierleague.com/premierleague25/photos/players/110x140/510500.png,3,2526
+519,250199,Nicolás,Domínguez,Dominguez,https://resources.premierleague.com/premierleague25/photos/players/110x140/250199.png,3,2526
+520,243345,Lewis,O'Brien,O'Brien,https://resources.premierleague.com/premierleague25/photos/players/110x140/243345.png,3,2526
+521,210462,Ibrahim,Sangaré,Sangaré,https://resources.premierleague.com/premierleague25/photos/players/110x140/210462.png,3,2526
+522,204968,Ryan,Yates,Yates,https://resources.premierleague.com/premierleague25/photos/players/110x140/204968.png,3,2526
+523,569014,Eric,da Silva Moreira,Da Silva Moreira,https://resources.premierleague.com/premierleague25/photos/players/110x140/569014.png,3,2526
+524,495161,Marko,Stamenić,Stamenic,https://resources.premierleague.com/premierleague25/photos/players/110x140/495161.png,3,2526
+525,60689,Chris,Wood,Wood,https://resources.premierleague.com/premierleague25/photos/players/110x140/60689.png,4,2526
+526,482973,Igor Jesus,Maciel da Cruz,Igor Jesus,https://resources.premierleague.com/premierleague25/photos/players/110x140/482973.png,4,2526
+527,210156,Taiwo,Awoniyi,Awoniyi,https://resources.premierleague.com/premierleague25/photos/players/110x140/210156.png,4,2526
+669,456512,Dan,Ndoye,Ndoye,https://resources.premierleague.com/premierleague25/photos/players/110x140/456512.png,3,2526
+675,107265,Angus,Gunn,Gunn,https://resources.premierleague.com/premierleague25/photos/players/110x140/107265.png,1,2526
+693,503301,Omari,Hutchinson,Hutchinson,https://resources.premierleague.com/premierleague25/photos/players/110x140/503301.png,3,2526
+696,465680,Arnaud,Kalimuendo,Kalimuendo,https://resources.premierleague.com/premierleague25/photos/players/110x140/465680.png,4,2526
+715,221389,John Victor,Maciel Furtado,John,https://resources.premierleague.com/premierleague25/photos/players/110x140/221389.png,1,2526
+716,500151,Nicolò,Savona,Savona,https://resources.premierleague.com/premierleague25/photos/players/110x140/500151.png,2,2526
+729,560441,Luis Eduardo,Soares da Silva,Cuiabano,https://resources.premierleague.com/premierleague25/photos/players/110x140/560441.png,2,2526
+734,476887,Dilane,Bakwa,Bakwa,https://resources.premierleague.com/premierleague25/photos/players/110x140/476887.png,3,2526
+805,469130,Lorenzo,Lucca,Lucca,https://resources.premierleague.com/premierleague25/photos/players/110x140/469130.png,4,2526
+814,470315,Luca,Netz,Netz,https://resources.premierleague.com/premierleague25/photos/players/110x140/470315.png,2,2526
+835,568159,Archie,Whitehall,Whitehall,https://resources.premierleague.com/premierleague25/photos/players/110x140/568159.png,3,2526
+836,590040,Jimmy,Sinclair,Sinclair,https://resources.premierleague.com/premierleague25/photos/players/110x140/590040.png,3,2526
+841,687076,Lamin,Sillah,Sillah,https://resources.premierleague.com/premierleague25/photos/players/110x140/687076.png,4,2526
+528,232571,Anthony,Patterson,Patterson,https://resources.premierleague.com/premierleague25/photos/players/110x140/232571.png,1,2526
+529,74854,Simon,Moore,Moore,https://resources.premierleague.com/premierleague25/photos/players/110x140/74854.png,1,2526
+530,490000,Blondy,Nna Noukeu,Nna Noukeu,https://resources.premierleague.com/premierleague25/photos/players/110x140/490000.png,1,2526
+531,223827,Daniel,Ballard,Ballard,https://resources.premierleague.com/premierleague25/photos/players/110x140/223827.png,2,2526
+532,487676,Trai,Hume,Hume,https://resources.premierleague.com/premierleague25/photos/players/110x140/487676.png,2,2526
+533,220684,Aji,Alese,Alese,https://resources.premierleague.com/premierleague25/photos/players/110x140/220684.png,2,2526
+534,232820,Joe,Anderson,Anderson,https://resources.premierleague.com/premierleague25/photos/players/110x140/232820.png,2,2526
+535,461195,Dennis,Cirkin,Cirkin,https://resources.premierleague.com/premierleague25/photos/players/110x140/461195.png,2,2526
+536,477547,Leo Fuhr,Hjelde,Hjelde,https://resources.premierleague.com/premierleague25/photos/players/110x140/477547.png,2,2526
+537,492066,Niall,Huggins,Huggins,https://resources.premierleague.com/premierleague25/photos/players/110x140/492066.png,2,2526
+538,514613,Zak,Johnson,Johnson,https://resources.premierleague.com/premierleague25/photos/players/110x140/514613.png,2,2526
+539,167512,Luke,O'Nien,O'Nien,https://resources.premierleague.com/premierleague25/photos/players/110x140/167512.png,2,2526
+540,465702,Timothée,Pembélé,Pembele,https://resources.premierleague.com/premierleague25/photos/players/110x140/465702.png,2,2526
+541,434399,Reinildo,Mandava,Reinildo,https://resources.premierleague.com/premierleague25/photos/players/110x140/434399.png,2,2526
+542,519634,Jenson,Seelt,Seelt,https://resources.premierleague.com/premierleague25/photos/players/110x140/519634.png,2,2526
+543,535818,Simon,Adingra,Adingra,https://resources.premierleague.com/premierleague25/photos/players/110x140/535818.png,3,2526
+544,547027,Habib,Diarra,Diarra,https://resources.premierleague.com/premierleague25/photos/players/110x140/547027.png,3,2526
+545,124165,Patrick,Roberts,Roberts,https://resources.premierleague.com/premierleague25/photos/players/110x140/124165.png,3,2526
+546,626844,Milan,Aleksić,Aleksić,https://resources.premierleague.com/premierleague25/photos/players/110x140/626844.png,3,2526
+547,484420,Enzo,Le Fée,E.Le Fée,https://resources.premierleague.com/premierleague25/photos/players/110x140/484420.png,3,2526
+548,461199,Romaine,Mundle,Mundle,https://resources.premierleague.com/premierleague25/photos/players/110x140/461199.png,3,2526
+549,223336,Dan,Neil,Neil,https://resources.premierleague.com/premierleague25/photos/players/110x140/223336.png,3,2526
+550,215460,Ian,Poveda-Ocampo,Poveda,https://resources.premierleague.com/premierleague25/photos/players/110x140/215460.png,3,2526
+551,554197,Chris,Rigg,Rigg,https://resources.premierleague.com/premierleague25/photos/players/110x140/554197.png,3,2526
+552,577669,Noah,Sadiki,Sadiki,https://resources.premierleague.com/premierleague25/photos/players/110x140/577669.png,3,2526
+553,549912,Chemsdine,Talbi,Talbi,https://resources.premierleague.com/premierleague25/photos/players/110x140/549912.png,3,2526
+554,477851,Abdoullah,Ba,Ba,https://resources.premierleague.com/premierleague25/photos/players/110x140/477851.png,3,2526
+555,171422,Alan,Browne,Browne,https://resources.premierleague.com/premierleague25/photos/players/110x140/171422.png,3,2526
+556,458297,Pierre,Ekwah Elimby,Ekwah,https://resources.premierleague.com/premierleague25/photos/players/110x140/458297.png,3,2526
+557,547410,Harrison,Jones,H.Jones,https://resources.premierleague.com/premierleague25/photos/players/110x140/547410.png,3,2526
+558,493837,Jay,Matete,Matete,https://resources.premierleague.com/premierleague25/photos/players/110x140/493837.png,3,2526
+559,500696,Nectarios,Triantis,Triantis,https://resources.premierleague.com/premierleague25/photos/players/110x140/500696.png,3,2526
+560,437505,Wilson,Isidor,Isidor,https://resources.premierleague.com/premierleague25/photos/players/110x140/437505.png,4,2526
+561,564406,Eliezer,Mayenda Dossou,Mayenda,https://resources.premierleague.com/premierleague25/photos/players/110x140/564406.png,4,2526
+562,611975,Ahmed,Abdullahi,Abdullahi,https://resources.premierleague.com/premierleague25/photos/players/110x140/611975.png,4,2526
+563,551153,Luís Hemir,Silva Semedo,Luís Hemir,https://resources.premierleague.com/premierleague25/photos/players/110x140/551153.png,4,2526
+564,440955,Nazarii,Rusyn,Rusyn,https://resources.premierleague.com/premierleague25/photos/players/110x140/440955.png,4,2526
+668,84450,Granit,Xhaka,Xhaka,https://resources.premierleague.com/premierleague25/photos/players/110x140/84450.png,3,2526
+670,498016,Robin,Roefs,Roefs,https://resources.premierleague.com/premierleague25/photos/players/110x140/498016.png,1,2526
+678,105717,Arthur,Masuaku,Masuaku,https://resources.premierleague.com/premierleague25/photos/players/110x140/105717.png,2,2526
+683,201895,Omar,Alderete,Alderete,https://resources.premierleague.com/premierleague25/photos/players/110x140/201895.png,2,2526
+694,200834,Nordi,Mukiele,Mukiele,https://resources.premierleague.com/premierleague25/photos/players/110x140/200834.png,2,2526
+724,247955,Lutsharel,Geertruida,Geertruida,https://resources.premierleague.com/premierleague25/photos/players/110x140/247955.png,2,2526
+730,441264,Brian,Brobbey,Brobbey,https://resources.premierleague.com/premierleague25/photos/players/110x140/441264.png,4,2526
+735,110504,Bertrand,Traoré,Traoré,https://resources.premierleague.com/premierleague25/photos/players/110x140/110504.png,3,2526
+774,232356,Jenson,Jones,Jenson Jones,https://resources.premierleague.com/premierleague25/photos/players/110x140/232356.png,2,2526
+775,604211,Tymur,Tutierov,Tutierov,https://resources.premierleague.com/premierleague25/photos/players/110x140/604211.png,3,2526
+800,699989,Djiamgone Jocelin Ta,Bi,Jocelin.T,https://resources.premierleague.com/premierleague25/photos/players/110x140/699989.png,3,2526
+812,515046,Melker,Ellborg,Ellborg,https://resources.premierleague.com/premierleague25/photos/players/110x140/515046.png,1,2526
+813,536661,Nilson,Angulo,Angulo,https://resources.premierleague.com/premierleague25/photos/players/110x140/536661.png,3,2526
+821,570929,Jack,Whittaker,Whittaker,https://resources.premierleague.com/premierleague25/photos/players/110x140/570929.png,3,2526
+822,571087,Jaydon,Jones,Jones,https://resources.premierleague.com/premierleague25/photos/players/110x140/571087.png,3,2526
+565,184254,Guglielmo,Vicario,Vicario,https://resources.premierleague.com/premierleague25/photos/players/110x140/184254.png,1,2526
+566,214572,Brandon,Austin,Austin,https://resources.premierleague.com/premierleague25/photos/players/110x140/214572.png,1,2526
+567,485055,Antonín,Kinský,Kinsky,https://resources.premierleague.com/premierleague25/photos/players/110x140/485055.png,1,2526
+568,441164,Pedro,Porro Sauceda,Pedro Porro,https://resources.premierleague.com/premierleague25/photos/players/110x140/441164.png,2,2526
+569,221632,Cristian,Romero,Romero,https://resources.premierleague.com/premierleague25/photos/players/110x140/221632.png,2,2526
+570,135720,Kevin,Danso,Danso,https://resources.premierleague.com/premierleague25/photos/players/110x140/135720.png,2,2526
+571,115556,Ben,Davies,Davies,https://resources.premierleague.com/premierleague25/photos/players/110x140/115556.png,2,2526
+572,493125,Radu,Drăgușin,Dragusin,https://resources.premierleague.com/premierleague25/photos/players/110x140/493125.png,2,2526
+573,232859,Djed,Spence,Spence,https://resources.premierleague.com/premierleague25/photos/players/110x140/232859.png,2,2526
+574,487053,Destiny,Udogie,Udogie,https://resources.premierleague.com/premierleague25/photos/players/110x140/487053.png,2,2526
+575,491279,Micky,van de Ven,Van de Ven,https://resources.premierleague.com/premierleague25/photos/players/110x140/491279.png,2,2526
+576,548308,Ashley,Phillips,Phillips,https://resources.premierleague.com/premierleague25/photos/players/110x140/548308.png,2,2526
+577,553299,Takai,Kōta,Takai,https://resources.premierleague.com/premierleague25/photos/players/110x140/553299.png,2,2526
+578,610799,Luka,Vušković,Vuskovic,https://resources.premierleague.com/premierleague25/photos/players/110x140/610799.png,2,2526
+579,85971,Son,Heung-min,Son,https://resources.premierleague.com/premierleague25/photos/players/110x140/85971.png,3,2526
+581,172780,James,Maddison,Maddison,https://resources.premierleague.com/premierleague25/photos/players/110x140/172780.png,3,2526
+582,460842,Mohammed,Kudus,Kudus,https://resources.premierleague.com/premierleague25/photos/players/110x140/460842.png,3,2526
+583,445044,Dejan,Kulusevski,Kulusevski,https://resources.premierleague.com/premierleague25/photos/players/110x140/445044.png,3,2526
+584,511499,Mathys,Tel,Tel,https://resources.premierleague.com/premierleague25/photos/players/110x140/511499.png,3,2526
+585,202993,Rodrigo,Bentancur,Bentancur,https://resources.premierleague.com/premierleague25/photos/players/110x140/202993.png,3,2526
+586,570526,Lucas,Bergvall,Bergvall,https://resources.premierleague.com/premierleague25/photos/players/110x140/570526.png,3,2526
+587,227127,Yves,Bissouma,Bissouma,https://resources.premierleague.com/premierleague25/photos/players/110x140/227127.png,3,2526
+588,550839,Wilson,Odobert,Odobert,https://resources.premierleague.com/premierleague25/photos/players/110x140/550839.png,3,2526
+589,235674,Manor,Solomon,Solomon,https://resources.premierleague.com/premierleague25/photos/players/110x140/235674.png,3,2526
+590,436234,Bryan,Gil Salvatierra,Bryan,https://resources.premierleague.com/premierleague25/photos/players/110x140/436234.png,3,2526
+591,547701,Archie,Gray,Gray,https://resources.premierleague.com/premierleague25/photos/players/110x140/547701.png,3,2526
+592,499721,Mikey,Moore,Moore,https://resources.premierleague.com/premierleague25/photos/players/110x140/499721.png,3,2526
+593,482442,Pape Matar,Sarr,P.M.Sarr,https://resources.premierleague.com/premierleague25/photos/players/110x140/482442.png,3,2526
+594,623095,Yang,Min-hyeok,Min-hyeok,https://resources.premierleague.com/premierleague25/photos/players/110x140/623095.png,3,2526
+595,499726,Callum,Olusesi,Olusesi,https://resources.premierleague.com/premierleague25/photos/players/110x140/499726.png,3,2526
+596,154566,Dominic,Solanke-Mitchell,Solanke,https://resources.premierleague.com/premierleague25/photos/players/110x140/154566.png,4,2526
+597,212319,Richarlison,de Andrade,Richarlison,https://resources.premierleague.com/premierleague25/photos/players/110x140/212319.png,4,2526
+598,552427,Will,Lankshear,Lankshear,https://resources.premierleague.com/premierleague25/photos/players/110x140/552427.png,4,2526
+599,490145,Dane,Scarlett,Scarlett,https://resources.premierleague.com/premierleague25/photos/players/110x140/490145.png,4,2526
+673,154296,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,https://resources.premierleague.com/premierleague25/photos/players/110x140/154296.png,3,2526
+717,493362,Xavi,Simons,Xavi,https://resources.premierleague.com/premierleague25/photos/players/110x140/493362.png,3,2526
+726,247693,Randal,Kolo Muani,Kolo Muani,https://resources.premierleague.com/premierleague25/photos/players/110x140/247693.png,4,2526
+745,640419,Jun'ai,Byfield,Byfield,https://resources.premierleague.com/premierleague25/photos/players/110x140/640419.png,2,2526
+750,499716,James,Rowswell,Rowswell,https://resources.premierleague.com/premierleague25/photos/players/110x140/499716.png,2,2526
+751,590035,Yusuf,Akhamrich,Akhamrich,https://resources.premierleague.com/premierleague25/photos/players/110x140/590035.png,3,2526
+790,611917,Lucá,Williams-Barnett,Williams-Barnett,https://resources.premierleague.com/premierleague25/photos/players/110x140/611917.png,3,2526
+796,232787,Conor,Gallagher,Gallagher,https://resources.premierleague.com/premierleague25/photos/players/110x140/232787.png,3,2526
+804,616221,João Victor,de Souza Menezes,Souza,https://resources.premierleague.com/premierleague25/photos/players/110x140/616221.png,2,2526
+811,536134,Rio,Kyerematen,Kyerematen,https://resources.premierleague.com/premierleague25/photos/players/110x140/536134.png,3,2526
+818,613232,James,Wilson,Wilson,https://resources.premierleague.com/premierleague25/photos/players/110x140/613232.png,4,2526
+326,159533,Adama,Traoré Diarra,Adama,https://resources.premierleague.com/premierleague25/photos/players/110x140/159533.png,3,2526
+600,84182,Alphonse,Areola,Areola,https://resources.premierleague.com/premierleague25/photos/players/110x140/84182.png,1,2526
+601,82143,Wes,Foderingham,Foderingham,https://resources.premierleague.com/premierleague25/photos/players/110x140/82143.png,1,2526
+602,483364,Krisztián,Hegyi,Hegyi,https://resources.premierleague.com/premierleague25/photos/players/110x140/483364.png,1,2526
+603,613804,El Hadji Malick,Diouf,Diouf,https://resources.premierleague.com/premierleague25/photos/players/110x140/613804.png,2,2526
+604,109533,Emerson,Palmieri dos Santos,Emerson,https://resources.premierleague.com/premierleague25/photos/players/110x140/109533.png,2,2526
+605,214048,Maximilian,Kilman,Kilman,https://resources.premierleague.com/premierleague25/photos/players/110x140/214048.png,2,2526
+606,233963,Konstantinos,Mavropanos,Mavropanos,https://resources.premierleague.com/premierleague25/photos/players/110x140/233963.png,2,2526
+607,210494,Nayef,Aguerd,N.Aguerd,https://resources.premierleague.com/premierleague25/photos/players/110x140/210494.png,2,2526
+608,536109,Ollie,Scarles,Scarles,https://resources.premierleague.com/premierleague25/photos/players/110x140/536109.png,2,2526
+609,462116,Jean-Clair,Todibo,Todibo,https://resources.premierleague.com/premierleague25/photos/players/110x140/462116.png,2,2526
+610,214590,Aaron,Wan-Bissaka,Wan-Bissaka,https://resources.premierleague.com/premierleague25/photos/players/110x140/214590.png,2,2526
+611,518438,Kaelan,Casey,Casey,https://resources.premierleague.com/premierleague25/photos/players/110x140/518438.png,2,2526
+612,224024,Lucas,Tolentino Coelho de Lima,L.Paquetá,https://resources.premierleague.com/premierleague25/photos/players/110x140/224024.png,3,2526
+613,215439,Tomáš,Souček,Souček,https://resources.premierleague.com/premierleague25/photos/players/110x140/215439.png,3,2526
+615,450070,Crysencio,Summerville,Summerville,https://resources.premierleague.com/premierleague25/photos/players/110x140/450070.png,3,2526
+616,213999,Edson,Álvarez Velázquez,Álvarez,https://resources.premierleague.com/premierleague25/photos/players/110x140/213999.png,3,2526
+617,149519,Maxwel,Cornet,Cornet,https://resources.premierleague.com/premierleague25/photos/players/110x140/149519.png,3,2526
+618,197024,Guido,Rodríguez,G.Rodriguez,https://resources.premierleague.com/premierleague25/photos/players/110x140/197024.png,3,2526
+619,577114,Luis Guilherme,Lira dos Santos,L.Guilherme,https://resources.premierleague.com/premierleague25/photos/players/110x140/577114.png,3,2526
+620,490885,George,Earthy,Earthy,https://resources.premierleague.com/premierleague25/photos/players/110x140/490885.png,3,2526
+621,229384,Andy,Irving,Irving,https://resources.premierleague.com/premierleague25/photos/players/110x140/229384.png,3,2526
+622,518442,Lewis,Orford,Orford,https://resources.premierleague.com/premierleague25/photos/players/110x140/518442.png,3,2526
+623,490142,Freddie,Potts,Potts,https://resources.premierleague.com/premierleague25/photos/players/110x140/490142.png,3,2526
+624,178186,Jarrod,Bowen,Bowen,https://resources.premierleague.com/premierleague25/photos/players/110x140/178186.png,4,2526
+625,91889,Niclas,Füllkrug,Füllkrug,https://resources.premierleague.com/premierleague25/photos/players/110x140/91889.png,4,2526
+626,565431,Callum,Marshall,Marshall,https://resources.premierleague.com/premierleague25/photos/players/110x140/565431.png,4,2526
+659,158534,Kyle,Walker-Peters,Walker-Peters,https://resources.premierleague.com/premierleague25/photos/players/110x140/158534.png,2,2526
+671,75115,Callum,Wilson,Wilson,https://resources.premierleague.com/premierleague25/photos/players/110x140/75115.png,4,2526
+679,467189,Mads,Hermansen,Hermansen,https://resources.premierleague.com/premierleague25/photos/players/110x140/467189.png,1,2526
+708,551226,Mateus Gonçalo,Espanha Fernandes,M.Fernandes,https://resources.premierleague.com/premierleague25/photos/players/110x140/551226.png,3,2526
+718,564940,Soungoutou,Magassa,S.Magassa,https://resources.premierleague.com/premierleague25/photos/players/110x140/564940.png,3,2526
+738,37096,Lukasz,Fabianski,Fabianski,https://resources.premierleague.com/premierleague25/photos/players/110x140/37096.png,1,2526
+747,602903,Ezra,Mayers,Mayers,https://resources.premierleague.com/premierleague25/photos/players/110x140/602903.png,2,2526
+752,643473,Airidas,Golambeckis,Golambeckis,https://resources.premierleague.com/premierleague25/photos/players/110x140/643473.png,2,2526
+758,630699,Mohamadou,Kanté,Mohamadou Kanté,https://resources.premierleague.com/premierleague25/photos/players/110x140/630699.png,3,2526
+785,530335,Pablo Felipe,Pereira de Jesus,Pablo,https://resources.premierleague.com/premierleague25/photos/players/110x140/530335.png,4,2526
+791,247670,Valentín,Castellanos,Taty,https://resources.premierleague.com/premierleague25/photos/players/110x140/247670.png,4,2526
+802,572702,Keiber,Lamadrid,Lamadrid,https://resources.premierleague.com/premierleague25/photos/players/110x140/572702.png,3,2526
+815,220362,Axel,Disasi,Disasi,https://resources.premierleague.com/premierleague25/photos/players/110x140/220362.png,2,2526
+825,553742,Finlay,Herrick,Herrick,https://resources.premierleague.com/premierleague25/photos/players/110x140/553742.png,1,2526
+627,101982,Sam,Johnstone,Johnstone,https://resources.premierleague.com/premierleague25/photos/players/110x140/101982.png,1,2526
+628,149065,José,Malheiro de Sá,José Sá,https://resources.premierleague.com/premierleague25/photos/players/110x140/149065.png,1,2526
+629,79602,Daniel,Bentley,Bentley,https://resources.premierleague.com/premierleague25/photos/players/110x140/79602.png,1,2526
+631,516939,Emmanuel,Agbadou,Agbadou,https://resources.premierleague.com/premierleague25/photos/players/110x140/516939.png,2,2526
+632,87835,Matt,Doherty,Doherty,https://resources.premierleague.com/premierleague25/photos/players/110x140/87835.png,2,2526
+633,490721,Hugo,Bueno López,H.Bueno,https://resources.premierleague.com/premierleague25/photos/players/110x140/490721.png,2,2526
+634,501837,Yerson,Mosquera Valdelamar,Mosquera,https://resources.premierleague.com/premierleague25/photos/players/110x140/501837.png,2,2526
+635,483081,Rodrigo,Martins Gomes,R.Gomes,https://resources.premierleague.com/premierleague25/photos/players/110x140/483081.png,2,2526
+636,231480,Santiago,Ignacio Bueno,S.Bueno,https://resources.premierleague.com/premierleague25/photos/players/110x140/231480.png,2,2526
+637,510362,Toti,Gomes,Toti,https://resources.premierleague.com/premierleague25/photos/players/110x140/510362.png,2,2526
+638,441271,Ki-Jana,Hoever,Hoever,https://resources.premierleague.com/premierleague25/photos/players/110x140/441271.png,2,2526
+639,560248,Bastien,Meupiyou Menadjou,Meupiyou,https://resources.premierleague.com/premierleague25/photos/players/110x140/560248.png,2,2526
+640,641221,Pedro,Cardoso de Lima,Pedro Lima,https://resources.premierleague.com/premierleague25/photos/players/110x140/641221.png,2,2526
+641,517179,Alfie,Pond,Pond,https://resources.premierleague.com/premierleague25/photos/players/110x140/517179.png,2,2526
+642,184754,Hwang,Hee-chan,Hee Chan,https://resources.premierleague.com/premierleague25/photos/players/110x140/184754.png,3,2526
+643,509291,André,Trindade da Costa Neto,André,https://resources.premierleague.com/premierleague25/photos/players/110x140/509291.png,3,2526
+644,231057,Jean-Ricner,Bellegarde,Bellegarde,https://resources.premierleague.com/premierleague25/photos/players/110x140/231057.png,3,2526
+645,643135,Fer,López González,Fer López,https://resources.premierleague.com/premierleague25/photos/players/110x140/643135.png,3,2526
+646,448089,João Victor,Gomes da Silva,J.Gomes,https://resources.premierleague.com/premierleague25/photos/players/110x140/448089.png,3,2526
+647,181284,Gonçalo Manuel,Ganchinho Guedes,Guedes,https://resources.premierleague.com/premierleague25/photos/players/110x140/181284.png,3,2526
+648,433312,Marshall,Munetsi,Munetsi,https://resources.premierleague.com/premierleague25/photos/players/110x140/433312.png,3,2526
+649,476502,Boubacar,Traoré,B.Traore,https://resources.premierleague.com/premierleague25/photos/players/110x140/476502.png,3,2526
+650,497606,Tawanda,Chirewa,Chirewa,https://resources.premierleague.com/premierleague25/photos/players/110x140/497606.png,3,2526
+651,596054,Tom,Edozie,Edozie,https://resources.premierleague.com/premierleague25/photos/players/110x140/596054.png,3,2526
+652,593001,Enso,González Medina,Gonzalez,https://resources.premierleague.com/premierleague25/photos/players/110x140/593001.png,3,2526
+653,240299,Joe,Hodge,Hodge,https://resources.premierleague.com/premierleague25/photos/players/110x140/240299.png,3,2526
+655,449988,Fábio,Soares Silva,Fábio Silva,https://resources.premierleague.com/premierleague25/photos/players/110x140/449988.png,4,2526
+656,429414,Saša,Kalajdžić,Kalajdžić,https://resources.premierleague.com/premierleague25/photos/players/110x140/429414.png,4,2526
+657,589507,Leon,Chiwome,Chiwome,https://resources.premierleague.com/premierleague25/photos/players/110x140/589507.png,4,2526
+658,531363,Nathan,Fraser,Fraser,https://resources.premierleague.com/premierleague25/photos/players/110x140/531363.png,4,2526
+663,230376,Jhon,Arias,J.Arias,https://resources.premierleague.com/premierleague25/photos/players/110x140/230376.png,3,2526
+682,497949,David,Møller Wolfe,Møller Wolfe,https://resources.premierleague.com/premierleague25/photos/players/110x140/497949.png,2,2526
+695,523705,Jackson,Tchatchoua,Tchatchoua,https://resources.premierleague.com/premierleague25/photos/players/110x140/523705.png,2,2526
+709,431248,Ladislav,Krejcí,Krejčí,https://resources.premierleague.com/premierleague25/photos/players/110x140/431248.png,2,2526
+720,488213,Tolu,Arokodare,Tolu,https://resources.premierleague.com/premierleague25/photos/players/110x140/488213.png,4,2526
+749,647671,Mateus,Mané,Mané,https://resources.premierleague.com/premierleague25/photos/players/110x140/647671.png,4,2526
+766,601956,Saheed,Olagunju,Olagunju,https://resources.premierleague.com/premierleague25/photos/players/110x140/601956.png,2,2526
+767,605319,Luke,Rawlings,Rawlings,https://resources.premierleague.com/premierleague25/photos/players/110x140/605319.png,3,2526
+777,514362,Temple,Ojinnaka,Ojinnaka,https://resources.premierleague.com/premierleague25/photos/players/110x140/514362.png,3,2526
+778,589121,Ethan,Sutherland,Sutherland,https://resources.premierleague.com/premierleague25/photos/players/110x140/589121.png,3,2526
+809,685628,Jerome,Abbey,Abbey,https://resources.premierleague.com/premierleague25/photos/players/110x140/685628.png,3,2526
+816,209041,Angel,Gomes,Angel,https://resources.premierleague.com/premierleague25/photos/players/110x140/209041.png,3,2526
+817,155511,Adam,Armstrong,Armstrong,https://resources.premierleague.com/premierleague25/photos/players/110x140/155511.png,4,2526
+828,491460,Alfie,Brooks,Brooks,https://resources.premierleague.com/premierleague25/photos/players/110x140/491460.png,1,2526
+831,627888,Josh,Gracey,Gracey,https://resources.premierleague.com/premierleague25/photos/players/110x140/627888.png,1,2526
