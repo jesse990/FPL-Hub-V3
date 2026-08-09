@@ -1,0 +1,11 @@
+fixdiff_nextn = 
+var gw1 = [max_gw]
+var nextgw = if(gw1 = 38, 0 , selectedvalue('N Gws'[Next N Gws]))   --- uses slider param
+var maxgw = gw1 + nextgw 
+
+return
+
+calculate(
+    sum(fixture_bridge[opp_strength]),
+    fixture_bridge[gameweek] <=maxgw,
+    fixture_bridge[gameweek]>= gw1)

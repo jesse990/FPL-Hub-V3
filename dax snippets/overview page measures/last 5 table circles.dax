@@ -1,0 +1,46 @@
+Last5 = 
+VAR _currentTeam = SELECTEDVALUE ( dim_teams[teamkey] )
+
+VAR _fix =
+    CALCULATETABLE (
+        fixture_bridge,
+        dim_fixture[finished] = "TRUE",
+        fixture_bridge[teamkey] = _currentTeam
+    )
+
+VAR _last5 =
+    TOPN (
+        5,
+        _fix,
+        LOOKUPVALUE ( dim_fixture[date], dim_fixture[fixkey], fixture_bridge[fixkey] ),
+        DESC
+    )
+
+VAR _output =
+    CONCATENATEX (
+        _last5,
+        VAR _isHome = fixture_bridge[home_away] = "home"
+        VAR _homeScore = LOOKUPVALUE ( dim_fixture[home_score], dim_fixture[fixkey], fixture_bridge[fixkey] )
+        VAR _awayScore = LOOKUPVALUE ( dim_fixture[away_score], dim_fixture[fixkey], fixture_bridge[fixkey] )
+        VAR _gs = IF ( _isHome, _homeScore, _awayScore )
+        VAR _gc = IF ( _isHome, _awayScore, _homeScore )
+        VAR _result =
+            IF (
+                ISBLANK ( _homeScore ) || ISBLANK ( _awayScore ),
+                "",
+                SWITCH (
+                    TRUE (),
+                    _gs > _gc, "🟢",
+                    _gs = _gc, "🟡",
+                    "🔴"
+                )
+            )
+        RETURN _result,
+        " ",
+        LOOKUPVALUE ( dim_fixture[date], dim_fixture[fixkey], fixture_bridge[fixkey] ), 
+        ASC
+    )
+
+var mins = calculate(max(fact_table[minutes]), all(dim_teams), REMOVEFILTERS(fact_table[gw]))
+return
+if(mins = 0,"⚪⚪⚪⚪⚪",_output)

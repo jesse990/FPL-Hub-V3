@@ -1,0 +1,14 @@
+xgc = 
+var team = selectedvalue(dim_teams[teamkey])
+var seasom = selectedvalue(dim_seasons[season_id])
+var maxgw = [max_gw]
+var mingw = selectedvalue('N Gws'[Next N Gws])
+var gw = maxgw - mingw
+return
+calculate(
+    sum(fact_table[xg]),
+    fact_table[oppkey] = team,
+    fact_table[gw] >= gw,
+    fact_table[season] = seasom,
+    all(fact_table[teamkey]),
+    userelationship(dim_teams[teamkey], fact_table[oppkey]))

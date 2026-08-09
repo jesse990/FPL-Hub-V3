@@ -1,0 +1,5 @@
+Fields = {
+    ("Fix Diff", NAMEOF('measures_'[fixdiff_nextn]), 0),
+    ("xGC", NAMEOF('measures_'[xgc]), 1),
+    ("xG", NAMEOF('measures_'[xgcreated]), 2)
+}

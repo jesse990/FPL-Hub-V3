@@ -1,0 +1,37 @@
+Next Opponent Key1 = 
+VAR CurrentTeamKey = [teamkey]           
+VAR NextGW = [max_gw] + 1
+
+VAR fix = 
+    CALCULATE(
+        MAX ( fixture_bridge[fixkey] ),
+        fixture_bridge[gameweek] = NextGW,
+        fixture_bridge[teamkey] = CurrentTeamKey,
+        ALL ( fact_table ),
+        ALL ( fixture_bridge )
+    )
+
+VAR OpponentTeamKey = 
+    CALCULATE(
+        MAX ( fixture_bridge[oppkey] ),
+        fixture_bridge[fixkey] = fix,
+        fixture_bridge[teamkey] = CurrentTeamKey,
+        ALL ( fact_table ),
+        ALL ( fixture_bridge )
+    )
+
+RETURN
+    OpponentTeamKey
+
+-----------------------------------------------------------------
+
+
+nextopp = 
+var key_ = [Next Opponent Key1]
+var output = 
+calculate(
+    max(dim_teams[name]),
+    dim_teams[teamkey] = key_,
+    REMOVEFILTERS(fact_table))
+return 
+if(isblank(output), "No Fix" , output)

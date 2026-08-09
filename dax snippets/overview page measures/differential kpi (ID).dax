@@ -1,0 +1,22 @@
+mostpoints_low% = 
+// Filtering measure via slicer 
+VAR filterval = [%filtval]/100 
+VAR threshold = if(filterval<0.05, filterval, 0.05)          --- so if they filter to a % under 5, it will still dynamically adjust rather than be fixed
+VAR priceval = [pricefiltval]
+VAR filtered =
+    FILTER(
+        ALL( fact_table[playerkey] ),  // or VALUES(dim_players[playerkey]) if better
+        [Ownership %] < threshold && NOT ISBLANK([Ownership %]) && [price] < priceval && NOT ISBLANK([price])
+    )
+var resultstable =
+topn(
+    1,
+    addcolumns(
+    filtered,
+    "points", CALCULATE( [total points])
+    ),
+    [points],
+    DESC
+    )
+RETURN
+    MAXX( resultstable, [playerkey] )

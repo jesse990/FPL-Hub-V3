@@ -1,0 +1,109 @@
+pointslastseason = 
+VAR lastseason = [lastseason]
+VAR currentSeason = SELECTEDVALUE ( dim_seasons[season_id] )
+
+-- Only return a value if the player has rows in the *current* season, so players not in the game for current season dont show up
+VAR hasCurrentSeasonData =
+    CALCULATE (
+        COUNTROWS ( fact_table ),
+        TREATAS({currentSeason}, dim_seasons[season_id])
+    )
+
+VAR PointsLastSeason =
+    CALCULATE (
+        SUM ( fact_table[points] ),
+         TREATAS({lastseason}, dim_seasons[season_id]),
+        REMOVEFILTERS ( dim_seasons ),   -- ignore the currently selected season
+        REMOVEFILTERS ( dim_teams ),     -- ignore any team filter
+        REMOVEFILTERS(dim_players_season[position]),
+        REMOVEFILTERS(dim_players_season[position_id])
+        -- player filter is left intact by the filter context
+    )
+
+RETURN
+    IF (
+        hasCurrentSeasonData >= 1,
+        IF ( ISBLANK ( PointsLastSeason ), 0, PointsLastSeason ),
+        BLANK ()
+    )
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Points Per Value = 
+VAR ptsprev = [pointslastseason]
+var price = [price]                              -- ponts last season vs current price
+var ppv = DIVIDE(ptsprev,price)
+var output = if(isblank(ppv), 0,ppv)
+return 
+output
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+value_id = 
+VAR currentPrice = [pricefiltval]
+
+-- Get every player code, completely ignoring current filters
+VAR allCodes =
+    ALL ( fact_table[code] )
+
+-- Keep only players cheaper than the current price
+-- CALCULATE + REMOVEFILTERS makes sure [price] is evaluated against the full dataset
+VAR filtered =
+    FILTER (
+        allCodes,
+        CALCULATE (
+            [price],
+            REMOVEFILTERS ( dim_teams ),
+            REMOVEFILTERS ( dim_players_season )
+        ) < currentPrice
+    )
+
+-- Add the Points Per Value for each remaining code (again, full visibility)
+VAR withPPV =
+    ADDCOLUMNS (
+        filtered,
+        "ppv",[Points Per Value]
+        )
+    
+
+-- Pick the single best one
+VAR top1 =
+    TOPN (
+        1,
+        withPPV,
+        [ppv],
+        DESC
+    )
+
+VAR code = 
+    MAXX ( top1, [code] )
+VAR season = [lastseason]
+
+
+RETURN code
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+bestvalue KPI = 
+
+VAR Playerkey   = [value_id]
+VAR code = CALCULATE(max(dim_players_season[playerkey]), dim_players[code] = Playerkey)
+var season = [lastseason]
+var totalpoints = CALCULATE([pointslastseason], dim_players[code] = playerkey)
+var price = CALCULATE([price], dim_players[code] = Playerkey)
+VAR ppv      = round(CALCULATE([Points Per Value], dim_players[code] = Playerkey),0)
+VAR PlayerName  = CALCULATE(max(dim_players_season[web_name]), dim_players[code] = Playerkey, ALL(fact_table))
+VAR TeamKey     = CALCULATE(MAX(fact_table[teamkey]), dim_players[code] = Playerkey, fact_table[season] = season,  ALL(fact_table))
+VAR ImageURL    = CALCULATE(MAX(dim_players_season[photo]), dim_players[code] = Playerkey, REMOVEFILTERS(dim_seasons))
+VAR TeamBadge   = CALCULATE(MAX(dim_teams[badge]), dim_teams[teamkey] = TeamKey, REMOVEFILTERS(dim_seasons))
+VAR Position    = CALCULATE(max(dim_players_season[position_id]), dim_players[code] = Playerkey, REMOVEFILTERS(dim_seasons))
+VAR PosAvg      = SWITCH(Position, 1,[gk_ptslastszn],2,[def_ptslastszn],3,[mid_ptslastszn],4,[fwd_ptslastszn])
+VAR PPG_Diff    = totalpoints - PosAvg
+
+VAR MinGW       = [min_gw]
+VAR MaxGW       = [max_gw]
+
+VAR points_BM      = IF(PPG_Diff = 0, "", IF(PPG_Diff > 0, "▲", "▼")) 
+
+RETURN
+.... html

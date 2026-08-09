@@ -1,0 +1,80 @@
+html = 
+VAR team = SELECTEDVALUE('dim_teams'[teamkey])
+VAR maxGW = [max_gw]
+
+// Check if any points have been scored yet (global max)
+VAR MaxPointsOverall = 
+    CALCULATE(
+        MAXX(ALL('dim_players_season'), [total points])
+    )
+// if game have been played order players by points, if not order by price
+VAR playercards =
+    CONCATENATEX(
+        FILTER(
+            TOPN(215, 'dim_players_season',IF(MaxPointsOverall = 0, [price], [total points]), DESC),
+            NOT(ISBLANK(CALCULATE([mins], fact_table[gw] = maxGW)))
+            &&
+            VAR PlayerPrice = CALCULATE(MAX(fact_table[price]), fact_table[gw] = maxGW)
+            VAR PlayerPercent = CALCULATE(MAX(fact_table[selected_perc]), fact_table[gw] = maxGW)
+            RETURN
+                PlayerPrice >= MIN('Price Slicer'[Value]) &&
+                PlayerPrice <= MAX('Price Slicer'[Value]) &&
+                PlayerPercent >= MIN('Percent Selected Slicer'[Percent Selected]) &&
+                PlayerPercent <= MAX('Percent Selected Slicer'[Percent Selected])
+        ),
+        
+        VAR playerName = 'dim_players_season'[web_name]
+        VAR playerPhoto = 'dim_players_season'[photo]
+        VAR playerPoints = [total points]
+        VAR price = [price]
+        VAR mins = [mins]
+        VAR goals = [goals]
+        VAR assists = [assists]
+        VAR xg = ROUND([xg], 1)
+        VAR xa = ROUND([xa], 1)
+        VAR defcon = IF(ISBLANK([defcon count]), 0, [defcon count])
+        VAR own = [Ownership %] * 100 
+        
+        RETURN
+            "<div style='display: flex; flex-direction: column; align-items: center; gap: 4px; width: 150px; border: 3px solid #E9EBF2; border-radius: 8px; padding: 12px; background:#E9EBF2;'>" &
+            
+            "<div style='text-align: center;'>" &
+                "<div style='font-size: 15px; font-weight: 900; color: black; line-height: 1.1;'>" & playerName & "</div>" &
+                "<div style='font-size: 13px; font-weight: 900; color: #166A19; margin-top: 2px;'>£" & price &
+                 "<span style='margin-left: 4px; color: #0066cc;'>(" & FORMAT(own, "0") & "%)</span>" &"</div>" &
+            "</div>" &
+            
+            "<div style='position: relative; display: inline-block;'>" &
+                "<img src='" & playerPhoto & "' style='width: 85px; height: 85px; background:white; border-radius: 50%; object-fit: contain; border: 5px solid white;'/>" &
+                "<div style='position: absolute; top: 0; right: 0; background: #FFD700; color: black; font-size: 9px; font-weight: 700; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; border: 1px solid white;'>" & playerPoints & "</div>" &
+            "</div>" &
+            
+            "<div style='width: 120px; margin-left: 12px; display: flex; flex-direction: column; gap: 8px; font-size: 13px;'>" &
+                "<div style='display: flex; justify-content: space-between;'>" &
+                    "<span style='min-width: 48px; text-align: left;'><b>" & goals & "</b> ⚽</span>" &
+                    "<span style='min-width: 65px; text-align: left;'><b>" & xg & "</b> xg</span>" &
+                "</div>" &
+                "<div style='display: flex; justify-content: space-between;'>" &
+                    "<span style='min-width: 48px; text-align: left;'><b>" & assists & "</b> 🅰️</span>" &
+                    "<span style='min-width: 65px; text-align: left;'><b>" & xa & "</b> xa</span>" &
+                "</div>" &
+                "<div style='display: flex; justify-content: space-between;'>" &
+                    "<span style='min-width: 48px; text-align: left;'><b>" & mins & "</b> 🕒</span>" &
+                    "<span style='min-width: 65px; text-align: left;'><b>" & defcon & "</b> DefCon</span>" &
+                "</div>" &
+            "</div>" &
+            
+        "</div>",
+        
+        "",                                          // delimiter
+        IF(MaxPointsOverall = 0, [price], [total points]),   // order by
+        DESC
+    )
+
+VAR HTMLGrid =
+    "<style>html, body { background-color: #E9EBF2 !important; margin: 0; padding: 0; }</style>" &
+    "<div style='width: 100%; min-height: 100vh; background: #E9EBF2; padding: 8px; font-family: ""Segoe UI"", sans-serif; box-sizing: border-box; border: 1px solid #E9EBF2;'>" &
+        "<div style='display: flex; flex-wrap: wrap; gap: 24px; justify-content: flex-start;'>" & playercards & "</div>" &
+    "</div>"
+
+RETURN HTMLGrid

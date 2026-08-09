@@ -1,0 +1,21 @@
+defconid = 
+// Filtering measure via slicer 
+VAR filterval = [%filtval]/100 
+VAR priceval = [pricefiltval]
+VAR filtered =
+    FILTER(
+        ALL( fact_table[playerkey] ),  // or VALUES(dim_players[playerkey]) if better
+        [Ownership %] <= filterval && NOT ISBLANK([Ownership %]) && [price] < priceval 
+        && [min%] > 50                                      -- filters so only players who have played 50% of available mins are in context
+    )                                                       -- done to prevent players who play once and hit defcon so have 100% defcon rate for showing up
+var most =
+topn(
+    1,
+    addcolumns(
+        filtered,
+            "defc" , [defconhit%]),
+            [defc], 
+            desc)
+return 
+maxx(most, [playerkey])
+
